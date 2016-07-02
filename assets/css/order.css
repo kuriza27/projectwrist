@@ -209,9 +209,11 @@ ORDER CSS
 }
 
 .wrist-style .col-md-4 {
-    width: 16%;
-    padding: 6px;
-	margin-top:10px;
+	width: 25%;
+    padding: 6px 9px;
+    margin-top: 10px;
+    min-height: 202px;
+    display: block;
 }
 
  input[type="radio"]{
@@ -234,14 +236,12 @@ ORDER CSS
     margin-bottom: 10px;
 }
 
-.wrist_style_container {
-    margin-left: 36px;
-}
 
 
 .prod:hover{
 	cursor:pointer;
 	border:1px solid #ADACAC;
+	background-color:#fff;
 }
 
 .prod-size:hover{
@@ -263,8 +263,9 @@ ORDER CSS
 .wrist-size .col-md-4 {
     width: 16%;
     padding: 6px;
-	text-align: center;
-	margin-top:10px;
+    text-align: center;
+    margin-top: 10px;
+    min-height: 197px;
 }
 
 .wrist-size .box-thumb {
@@ -388,6 +389,7 @@ ORDER CSS
 
 .tab-content h3{
 	color:#079ca5;
+	margin-left: 10px;
 }
 
 div#main-color-content {
@@ -410,6 +412,7 @@ div#main-color-content {
 
 .show-content {
     margin-top: 12px;
+	margin-bottom:12px;
 }
 
 .wrist-color-quantity {
@@ -491,4 +494,30 @@ select#fs {
 
 div#float {
     font-size: 19px;
+}
+
+.add-ons .box-thumb{
+	background-color: #fff;
+    border: 1px solid #CBCBCB;
+    text-align: center;
+    padding: 0px 39px;
+    border-radius: 4px;
+}
+
+.add-ons .box-thumb img{
+	width:auto!important;
+}
+
+.total-area h5{
+	color:#fff;
+}
+
+select#ProductionTime {
+    padding: 6px;
+    border-radius: 2px;
+}
+
+select#ShippingTime {
+    padding: 6px;
+    border-radius: 2px;
 }

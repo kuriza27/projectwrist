@@ -186,7 +186,7 @@ div#slideshow {
     background-color: #fff;
     border: 1px solid #CBCBCB;
     text-align: center;
-    padding: 88px;
+    padding: 80px 14px;
     border-radius: 4px;
 }
 
@@ -358,6 +358,14 @@ table.table-area-ink-injected-half.uk-table.uk-table-bordered.js-pricing-table {
 		margin-bottom: 10px;
 		margin-top: 24px;
 	}
+	
+	#banner-pricing{
+	  overflow-x:auto;
+  }
+  
+  .view-more{
+	  padding:8px 16px!important;
+  }
 }
 
 
@@ -402,4 +410,25 @@ table.table-area-ink-injected-half.uk-table.uk-table-bordered.js-pricing-table {
 	
 	.box-color input {
     width: 100%!important;}
+	
+  #footer-link-main, #footer-link-secondary, #footer-text{
+	float:none!important;
+	width:100%;
+  }
+  
+  #footer-text{
+	  margin-top:15px;
+	  margin-left:35px;
+  }
+  
+  .box-color{
+	  width:100%!important;
+	  float:none!important;
+  }
+}
+@media screen and (max-width: 850px){
+	.search{
+		width:100%!important;
+	}
+	
 }
