@@ -14,39 +14,51 @@
       <!-- Example row of columns -->
       <div id="main-content" class="row homecontent">
 			<div class="col-md-4">
-			  <div class="box-thumb"><img src="assets/images/src/product1.jpg"></div>
+			  <div class="box-thumb"><img src="assets/images/src/Printed.png"></div>
 			  <h2>Printed</h2> 
-			  <div class="prod_price">$0.07</div>
+			  <div class="prod_price">$0.09</div>
 			  <p><a class="btn btn-default" href="order.php" role="button">Order Now</a></p>
 			</div>
 			<div class="col-md-4">
-			  <div class="box-thumb"><img src="assets/images/src/product2.jpg"></div>
+			  <div class="box-thumb"><img src="assets/images/src/Debossed.png"></div>
 			  <h2>Debossed</h2>
 			  <div class="prod_price">$0.06</div>
 			  <p><a class="btn btn-default" href="order.php" role="button">Order Now</a></p>
 			</div>
 			<div class="col-md-4">
-			  <div class="box-thumb"><img src="assets/images/src/product3.jpg"></div>
+			  <div class="box-thumb"><img src="assets/images/src/Color-Filled.png"></div>
 			  <h2>Ink Injected</h2>
-			  <div class="prod_price">$0.09</div>
+			  <div class="prod_price">$0.07</div>
 			  <p><a class="btn btn-default" href="order.php" role="button">Order Now</a></p>
 			</div>
 			<div class="col-md-4">
-			  <div class="box-thumb"><img src="assets/images/src/product4.jpg"></div>
+			  <div class="box-thumb"><img src="assets/images/src/Embossed.png"></div>
 			  <h2>Embossed</h2> 
 			  <div class="prod_price">$0.07</div>
 			  <p><a class="btn btn-default" href="order.php" role="button">Order Now</a></p>
 			</div>
 			<div class="col-md-4">
-			  <div class="box-thumb"><img src="assets/images/src/product5.jpg"></div>
-			  <h2>Color Coat</h2>
+			  <div class="box-thumb"><img src="assets/images/src/Dual-Layer.png"></div>
+			  <h2>Dual Layer</h2>
 			  <div class="prod_price">$0.06</div>
 			  <p><a class="btn btn-default" href="order.php" role="button">Order Now</a></p>
 			</div>
 			<div class="col-md-4">
-			  <div class="box-thumb"><img src="assets/images/src/product6.jpg"></div>
+			  <div class="box-thumb"><img src="assets/images/src/Embossed-Printed.png"></div>
 			  <h2>Embossed Printed</h2>
 			  <div class="prod_price">$0.09</div>
+			  <p><a class="btn btn-default" href="order.php" role="button">Order Now</a></p>
+			</div>
+			<div class="col-md-4">
+			  <div class="box-thumb"><img src="assets/images/src/Figured.png"></div>
+			  <h2>Figured</h2>
+			  <div class="prod_price">$0.06</div>
+			  <p><a class="btn btn-default" href="order.php" role="button">Order Now</a></p>
+			</div>
+			<div class="col-md-4">
+			  <div class="box-thumb"><img src="assets/images/src/Blank.png"></div>
+			  <h2>Blank</h2>
+			  <div class="prod_price">$0.06</div>
 			  <p><a class="btn btn-default" href="order.php" role="button">Order Now</a></p>
 			</div>
       </div>

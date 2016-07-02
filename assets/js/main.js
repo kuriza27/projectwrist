@@ -141,6 +141,30 @@ jQuery(document).ready(function(){
 
 	});
 	
+	//size figured click
+	$('.wrist_size_figured').click(function(){
+
+		var $size_value =  $(this).attr('value');	
+		$('[class^="table-area-figured-"]').css('display', 'none');
+    
+        if($(this).attr('checked',true)){
+			$('.table-area-figured-'+$size_value).css('display','block');
+		}
+
+	});
+	
+	//size blank style click
+	$('.wrist_size_blank-style').click(function(){
+
+		var $size_value =  $(this).attr('value');	
+		$('[class^="table-area-blank-style-"]').css('display', 'none');
+    
+        if($(this).attr('checked',true)){
+			$('.table-area-blank-style-'+$size_value).css('display','block');
+		}
+
+	});
+	
 	 //preview message
 	$('.band-text').keyup(function(){
 		$.each($('.band-text'), function(key, obj){
@@ -191,7 +215,7 @@ jQuery(document).ready(function(){
 		//$('.band').css('background', +$color);
 	});
 	
-	$('[class^="qtyin-"]').on("input",function(){
+	/*$('[class^="qtyin-"]').on("input",function(){
 		$.each($('[class^="qtyin-"]'), function(key, obj){
 			var $value = $(obj).val();
  
@@ -203,7 +227,7 @@ jQuery(document).ready(function(){
 			}
 		});
 		return false;
-	});
+	});*/
 
 });
 

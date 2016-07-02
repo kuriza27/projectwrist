@@ -28,20 +28,20 @@
 				<tbody>
 					<tr>
 					<td class="uk-text-primary">Price</td>
-					<td>$<span data-qty-range="20-49">2.20</span></td>
-					<td>$<span data-qty-range="50-99">1.03</span></td>
-					<td>$<span data-qty-range="100-199">0.68</span></td>
-					<td>$<span data-qty-range="200-299">0.40</span></td>
-					<td>$<span data-qty-range="300-499">0.40</span></td>
-					<td>$<span data-qty-range="500-999">0.32</span></td>
-					<td>$<span data-qty-range="1000-1999">0.20</span></td>
-					<td>$<span data-qty-range="2000-2999">0.20</span></td>
-					<td>$<span data-qty-range="3000-4999">0.20</span></td>
-					<td>$<span data-qty-range="5000-9999">0.14</span></td>
-					<td>$<span data-qty-range="10000-19999">0.13</span></td>
-					<td>$<span data-qty-range="20000-49999">0.13</span></td>
-					<td>$<span data-qty-range="50000-99999">0.13</span></td>
-					<td>$<span data-qty-range="100000-199999">0.09</span></td>
+					<td>$<span data-qty-range="20-49">1.33</span></td>
+					<td>$<span data-qty-range="50-99">0.68</span></td>
+					<td>$<span data-qty-range="100-199">0.38</span></td>
+					<td>$<span data-qty-range="200-299">0.33</span></td>
+					<td>$<span data-qty-range="300-499">0.30</span></td>
+					<td>$<span data-qty-range="500-999">0.20</span></td>
+					<td>$<span data-qty-range="1000-1999">0.13</span></td>
+					<td>$<span data-qty-range="2000-2999">0.12</span></td>
+					<td>$<span data-qty-range="3000-4999">0.12</span></td>
+					<td>$<span data-qty-range="5000-9999">0.09</span></td>
+					<td>$<span data-qty-range="10000-19999">0.09</span></td>
+					<td>$<span data-qty-range="20000-49999">0.09</span></td>
+					<td>$<span data-qty-range="50000-99999">0.09</span></td>
+					<td>$<span data-qty-range="100000-199999">0.07</span></td>
 					</tr>
 				</tbody>
 			</table>
@@ -69,19 +69,19 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">2.11</span></td>
+						<td>$<span data-qty-range="20-49">3.53</span></td>
 						<td>$<span data-qty-range="50-99">0.89</span></td>
-						<td>$<span data-qty-range="100-199">0.58</span></td>
-						<td>$<span data-qty-range="200-299">0.33</span></td>
-						<td>$<span data-qty-range="300-499">0.24</span></td>
-						<td>$<span data-qty-range="500-999">0.16</span></td>
-						<td>$<span data-qty-range="1000-1999">0.16</span></td>
-						<td>$<span data-qty-range="2000-2999">0.16</span></td>
-						<td>$<span data-qty-range="3000-4999">0.16</span></td>
-						<td>$<span data-qty-range="5000-9999">0.15</span></td>
-						<td>$<span data-qty-range="10000-19999">0.15</span></td>
-						<td>$<span data-qty-range="20000-49999">0.15</span></td>
-						<td>$<span data-qty-range="50000-99999">0.15</span></td>
+						<td>$<span data-qty-range="100-199">0.56</span></td>
+						<td>$<span data-qty-range="200-299">0.26</span></td>
+						<td>$<span data-qty-range="300-499">0.25</span></td>
+						<td>$<span data-qty-range="500-999">0.24</span></td>
+						<td>$<span data-qty-range="1000-1999">0.15</span></td>
+						<td>$<span data-qty-range="2000-2999">0.15</span></td>
+						<td>$<span data-qty-range="3000-4999">0.15</span></td>
+						<td>$<span data-qty-range="5000-9999">0.14</span></td>
+						<td>$<span data-qty-range="10000-19999">0.13</span></td>
+						<td>$<span data-qty-range="20000-49999">0.13</span></td>
+						<td>$<span data-qty-range="50000-99999">0.13</span></td>
 						<td>$<span data-qty-range="100000-199999">0.12</span></td>
 						</tr>
 					</tbody>
@@ -110,20 +110,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">5.72</span></td>
-						<td>$<span data-qty-range="50-99">4.90</span></td>
-						<td>$<span data-qty-range="100-199">0.92</span></td>
-						<td>$<span data-qty-range="200-299">0.66</span></td>
-						<td>$<span data-qty-range="300-499">0.58</span></td>
-						<td>$<span data-qty-range="500-999">0.52</span></td>
-						<td>$<span data-qty-range="1000-1999">0.44</span></td>
-						<td>$<span data-qty-range="2000-2999">0.41</span></td>
-						<td>$<span data-qty-range="3000-4999">0.41</span></td>
-						<td>$<span data-qty-range="5000-9999">0.38</span></td>
-						<td>$<span data-qty-range="10000-19999">0.36</span></td>
-						<td>$<span data-qty-range="20000-49999">0.35</span></td>
-						<td>$<span data-qty-range="50000-99999">0.35</span></td>
-						<td>$<span data-qty-range="100000-199999">0.33</span></td>
+						<td>$<span data-qty-range="20-49">6.22</span></td>
+						<td>$<span data-qty-range="50-99">2.29</span></td>
+						<td>$<span data-qty-range="100-199">0.75</span></td>
+						<td>$<span data-qty-range="200-299">0.59</span></td>
+						<td>$<span data-qty-range="300-499">0.50</span></td>
+						<td>$<span data-qty-range="500-999">0.43</span></td>
+						<td>$<span data-qty-range="1000-1999">0.34</span></td>
+						<td>$<span data-qty-range="2000-2999">0.32</span></td>
+						<td>$<span data-qty-range="3000-4999">0.32</span></td>
+						<td>$<span data-qty-range="5000-9999">0.31</span></td>
+						<td>$<span data-qty-range="10000-19999">0.30</span></td>
+						<td>$<span data-qty-range="20000-49999">0.30</span></td>
+						<td>$<span data-qty-range="50000-99999">0.28</span></td>
+						<td>$<span data-qty-range="100000-199999">0.28</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -151,20 +151,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">6.69</span></td>
-						<td>$<span data-qty-range="50-99">5.70</span></td>
-						<td>$<span data-qty-range="100-199">0.98</span></td>
-						<td>$<span data-qty-range="200-299">0.74</span></td>
-						<td>$<span data-qty-range="300-499">0.64</span></td>
-						<td>$<span data-qty-range="500-999">0.59</span></td>
-						<td>$<span data-qty-range="1000-1999">0.49</span></td>
-						<td>$<span data-qty-range="2000-2999">0.47</span></td>
-						<td>$<span data-qty-range="3000-4999">0.47</span></td>
-						<td>$<span data-qty-range="5000-9999">0.42</span></td>
-						<td>$<span data-qty-range="10000-19999">0.40</span></td>
-						<td>$<span data-qty-range="20000-49999">0.40</span></td>
-						<td>$<span data-qty-range="50000-99999">0.40</span></td>
-						<td>$<span data-qty-range="100000-199999">0.39</span></td>
+						<td>$<span data-qty-range="20-49">4.67</span></td>
+						<td>$<span data-qty-range="50-99">2.30</span></td>
+						<td>$<span data-qty-range="100-199">0.77</span></td>
+						<td>$<span data-qty-range="200-299">0.60</span></td>
+						<td>$<span data-qty-range="300-499">0.51</span></td>
+						<td>$<span data-qty-range="500-999">0.46</span></td>
+						<td>$<span data-qty-range="1000-1999">0.36</span></td>
+						<td>$<span data-qty-range="2000-2999">0.33</span></td>
+						<td>$<span data-qty-range="3000-4999">0.33</span></td>
+						<td>$<span data-qty-range="5000-9999">0.32</span></td>
+						<td>$<span data-qty-range="10000-19999">0.32</span></td>
+						<td>$<span data-qty-range="20000-49999">0.32</span></td>
+						<td>$<span data-qty-range="50000-99999">0.28</span></td>
+						<td>$<span data-qty-range="100000-199999">0.28</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -192,20 +192,20 @@
 				<tbody>
 					<tr>
 					<td class="uk-text-primary">Price</td>
-					<td>$<span data-qty-range="20-49">3.82</span></td>
+					<td>$<span data-qty-range="20-49">4.96</span></td>
 					<td>$<span data-qty-range="50-99">2.46</span></td>
-					<td>$<span data-qty-range="100-199">1.74</span></td>
-					<td>$<span data-qty-range="200-299">1.05</span></td>
-					<td>$<span data-qty-range="300-499">0.95</span></td>
-					<td>$<span data-qty-range="500-999">0.85</span></td>
-					<td>$<span data-qty-range="1000-1999">0.48</span></td>
-					<td>$<span data-qty-range="2000-2999">0.43</span></td>
-					<td>$<span data-qty-range="3000-4999">0.43</span></td>
-					<td>$<span data-qty-range="5000-9999">0.39</span></td>
-					<td>$<span data-qty-range="10000-19999">0.38</span></td>
-					<td>$<span data-qty-range="20000-49999">0.36</span></td>
-					<td>$<span data-qty-range="50000-99999">0.36</span></td>
-					<td>$<span data-qty-range="100000-199999">0.36</span></td>
+					<td>$<span data-qty-range="100-199">0.92</span></td>
+					<td>$<span data-qty-range="200-299">0.55</span></td>
+					<td>$<span data-qty-range="300-499">0.49</span></td>
+					<td>$<span data-qty-range="500-999">0.41</span></td>
+					<td>$<span data-qty-range="1000-1999">0.30</span></td>
+					<td>$<span data-qty-range="2000-2999">0.28</span></td>
+					<td>$<span data-qty-range="3000-4999">0.28</span></td>
+					<td>$<span data-qty-range="5000-9999">0.28</span></td>
+					<td>$<span data-qty-range="10000-19999">0.27</span></td>
+					<td>$<span data-qty-range="20000-49999">0.27</span></td>
+					<td>$<span data-qty-range="50000-99999">0.26</span></td>
+					<td>$<span data-qty-range="100000-199999">0.26</span></td>
 					</tr>
 				</tbody>
 			</table>
@@ -233,20 +233,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">5.92</span></td>
-						<td>$<span data-qty-range="50-99">3.80</span></td>
-						<td>$<span data-qty-range="100-199">2.75</span></td>
-						<td>$<span data-qty-range="200-299">1.69</span></td>
-						<td>$<span data-qty-range="300-499">1.52</span></td>
-						<td>$<span data-qty-range="500-999">1.35</span></td>
-						<td>$<span data-qty-range="1000-1999">0.76</span></td>
-						<td>$<span data-qty-range="2000-2999">0.68</span></td>
-						<td>$<span data-qty-range="3000-4999">0.68</span></td>
-						<td>$<span data-qty-range="5000-9999">0.63</span></td>
-						<td>$<span data-qty-range="10000-19999">0.60</span></td>
-						<td>$<span data-qty-range="20000-49999">0.60</span></td>
-						<td>$<span data-qty-range="50000-99999">0.57</span></td>
-						<td>$<span data-qty-range="100000-199999">0.57</span></td>
+						<td>$<span data-qty-range="20-49">5.37</span></td>
+						<td>$<span data-qty-range="50-99">3.45</span></td>
+						<td>$<span data-qty-range="100-199">1.30</span></td>
+						<td>$<span data-qty-range="200-299">0.77</span></td>
+						<td>$<span data-qty-range="300-499">0.69</span></td>
+						<td>$<span data-qty-range="500-999">0.58</span></td>
+						<td>$<span data-qty-range="1000-1999">0.43</span></td>
+						<td>$<span data-qty-range="2000-2999">0.40</span></td>
+						<td>$<span data-qty-range="3000-4999">0.40</span></td>
+						<td>$<span data-qty-range="5000-9999">0.40</span></td>
+						<td>$<span data-qty-range="10000-19999">0.39</span></td>
+						<td>$<span data-qty-range="20000-49999">0.39</span></td>
+						<td>$<span data-qty-range="50000-99999">0.37</span></td>
+						<td>$<span data-qty-range="100000-199999">0.37</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -499,7 +499,7 @@
 				</tbody>
 			</table>
 			<!--------- END DEBOSSED ------------>
-			<!--------- INK-INJECTED ------------>
+			<!--------- INK-INJECTED/COLOR FILLED ------------>
 			<table class="table-area-ink-injected-half uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
 				<caption class="uk-margin-bottom">Pricing for Ink Injected wristbands (1/2&quot;) as of July, 2016</caption>
 				<thead>
@@ -524,20 +524,20 @@
 				<tbody>
 					<tr>
 					<td class="uk-text-primary">Price</td>
-					<td>$<span data-qty-range="20-49">1.33</span></td>
-					<td>$<span data-qty-range="50-99">0.68</span></td>
-					<td>$<span data-qty-range="100-199">0.38</span></td>
-					<td>$<span data-qty-range="200-299">0.33</span></td>
-					<td>$<span data-qty-range="300-499">0.33</span></td>
-					<td>$<span data-qty-range="500-999">0.30</span></td>
-					<td>$<span data-qty-range="1000-1999">0.21</span></td>
-					<td>$<span data-qty-range="2000-2999">0.21</span></td>
-					<td>$<span data-qty-range="3000-4999">0.21</span></td>
+					<td>$<span data-qty-range="20-49">2.20</span></td>
+					<td>$<span data-qty-range="50-99">1.03</span></td>
+					<td>$<span data-qty-range="100-199">0.68</span></td>
+					<td>$<span data-qty-range="200-299">0.40</span></td>
+					<td>$<span data-qty-range="300-499">0.40</span></td>
+					<td>$<span data-qty-range="500-999">0.32</span></td>
+					<td>$<span data-qty-range="1000-1999">0.20</span></td>
+					<td>$<span data-qty-range="2000-2999">0.20</span></td>
+					<td>$<span data-qty-range="3000-4999">0.20</span></td>
 					<td>$<span data-qty-range="5000-9999">0.14</span></td>
-					<td>$<span data-qty-range="10000-19999">0.14</span></td>
-					<td>$<span data-qty-range="20000-49999">0.14</span></td>
-					<td>$<span data-qty-range="50000-99999">0.14</span></td>
-					<td>$<span data-qty-range="100000-199999">0.14</span></td>
+					<td>$<span data-qty-range="10000-19999">0.13</span></td>
+					<td>$<span data-qty-range="20000-49999">0.13</span></td>
+					<td>$<span data-qty-range="50000-99999">0.13</span></td>
+					<td>$<span data-qty-range="100000-199999">0.09</span></td>
 					</tr>
 				</tbody>
 			</table>
@@ -565,20 +565,20 @@
 				<tbody>
 					<tr>
 					<td class="uk-text-primary">Price</td>
-					<td>$<span data-qty-range="20-49">2.35</span></td>
-					<td>$<span data-qty-range="50-99">0.90</span></td>
-					<td>$<span data-qty-range="100-199">0.62</span></td>
-					<td>$<span data-qty-range="200-299">0.36</span></td>
-					<td>$<span data-qty-range="300-499">0.32</span></td>
-					<td>$<span data-qty-range="500-999">0.29</span></td>
-					<td>$<span data-qty-range="1000-1999">0.19</span></td>
-					<td>$<span data-qty-range="2000-2999">0.21</span></td>
-					<td>$<span data-qty-range="3000-4999">0.21</span></td>
-					<td>$<span data-qty-range="5000-9999">0.17</span></td>
-					<td>$<span data-qty-range="10000-19999">0.17</span></td>
-					<td>$<span data-qty-range="20000-49999">0.17</span></td>
-					<td>$<span data-qty-range="50000-99999">0.17</span></td>
-					<td>$<span data-qty-range="100000-199999">0.14</span></td>
+					<td>$<span data-qty-range="20-49">2.11</span></td>
+					<td>$<span data-qty-range="50-99">0.89</span></td>
+					<td>$<span data-qty-range="100-199">0.58</span></td>
+					<td>$<span data-qty-range="200-299">0.33</span></td>
+					<td>$<span data-qty-range="300-499">0.24</span></td>
+					<td>$<span data-qty-range="500-999">0.16</span></td>
+					<td>$<span data-qty-range="1000-1999">0.16</span></td>
+					<td>$<span data-qty-range="2000-2999">0.16</span></td>
+					<td>$<span data-qty-range="3000-4999">0.16</span></td>
+					<td>$<span data-qty-range="5000-9999">0.15</span></td>
+					<td>$<span data-qty-range="10000-19999">0.15</span></td>
+					<td>$<span data-qty-range="20000-49999">0.15</span></td>
+					<td>$<span data-qty-range="50000-99999">0.15</span></td>
+					<td>$<span data-qty-range="100000-199999">0.12</span></td>
 					</tr>
 				</tbody>
 			</table>
@@ -606,20 +606,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">6.99</span></td>
-						<td>$<span data-qty-range="50-99">5.34</span></td>
-						<td>$<span data-qty-range="100-199">1.02</span></td>
-						<td>$<span data-qty-range="200-299">0.74</span></td>
-						<td>$<span data-qty-range="300-499">0.65</span></td>
-						<td>$<span data-qty-range="500-999">0.59</span></td>
-						<td>$<span data-qty-range="1000-1999">0.50</span></td>
-						<td>$<span data-qty-range="2000-2999">0.47</span></td>
-						<td>$<span data-qty-range="3000-4999">0.47</span></td>
-						<td>$<span data-qty-range="5000-9999">0.43</span></td>
-						<td>$<span data-qty-range="10000-19999">0.41</span></td>
-						<td>$<span data-qty-range="20000-49999">0.41</span></td>
-						<td>$<span data-qty-range="50000-99999">0.41</span></td>
-						<td>$<span data-qty-range="100000-199999">0.41</span></td>
+						<td>$<span data-qty-range="20-49">5.72</span></td>
+						<td>$<span data-qty-range="50-99">4.90</span></td>
+						<td>$<span data-qty-range="100-199">0.92</span></td>
+						<td>$<span data-qty-range="200-299">0.66</span></td>
+						<td>$<span data-qty-range="300-499">0.58</span></td>
+						<td>$<span data-qty-range="500-999">0.52</span></td>
+						<td>$<span data-qty-range="1000-1999">0.44</span></td>
+						<td>$<span data-qty-range="2000-2999">0.41</span></td>
+						<td>$<span data-qty-range="3000-4999">0.41</span></td>
+						<td>$<span data-qty-range="5000-9999">0.38</span></td>
+						<td>$<span data-qty-range="10000-19999">0.36</span></td>
+						<td>$<span data-qty-range="20000-49999">0.35</span></td>
+						<td>$<span data-qty-range="50000-99999">0.35</span></td>
+						<td>$<span data-qty-range="100000-199999">0.33</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -647,20 +647,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">6.99</span></td>
-						<td>$<span data-qty-range="50-99">5.72</span></td>
-						<td>$<span data-qty-range="100-199">1.09</span></td>
-						<td>$<span data-qty-range="200-299">0.79</span></td>
-						<td>$<span data-qty-range="300-499">0.69</span></td>
-						<td>$<span data-qty-range="500-999">0.61</span></td>
-						<td>$<span data-qty-range="1000-1999">0.51</span></td>
-						<td>$<span data-qty-range="2000-2999">0.49</span></td>
-						<td>$<span data-qty-range="3000-4999">0.44</span></td>
-						<td>$<span data-qty-range="5000-9999">0.44</span></td>
-						<td>$<span data-qty-range="10000-19999">0.42</span></td>
-						<td>$<span data-qty-range="20000-49999">0.42</span></td>
-						<td>$<span data-qty-range="50000-99999">0.42</span></td>
-						<td>$<span data-qty-range="100000-199999">0.42</span></td>
+						<td>$<span data-qty-range="20-49">6.69</span></td>
+						<td>$<span data-qty-range="50-99">5.70</span></td>
+						<td>$<span data-qty-range="100-199">0.98</span></td>
+						<td>$<span data-qty-range="200-299">0.74</span></td>
+						<td>$<span data-qty-range="300-499">0.64</span></td>
+						<td>$<span data-qty-range="500-999">0.59</span></td>
+						<td>$<span data-qty-range="1000-1999">0.49</span></td>
+						<td>$<span data-qty-range="2000-2999">0.47</span></td>
+						<td>$<span data-qty-range="3000-4999">0.47</span></td>
+						<td>$<span data-qty-range="5000-9999">0.42</span></td>
+						<td>$<span data-qty-range="10000-19999">0.40</span></td>
+						<td>$<span data-qty-range="20000-49999">0.40</span></td>
+						<td>$<span data-qty-range="50000-99999">0.40</span></td>
+						<td>$<span data-qty-range="100000-199999">0.39</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -688,20 +688,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">4.24</span></td>
-						<td>$<span data-qty-range="50-99">2.73</span></td>
-						<td>$<span data-qty-range="100-199">1.98</span></td>
-						<td>$<span data-qty-range="200-299">1.21</span></td>
-						<td>$<span data-qty-range="300-499">1.10</span></td>
-						<td>$<span data-qty-range="500-999">0.98</span></td>
-						<td>$<span data-qty-range="1000-1999">0.56</span></td>
-						<td>$<span data-qty-range="2000-2999">0.50</span></td>
-						<td>$<span data-qty-range="3000-4999">0.50</span></td>
-						<td>$<span data-qty-range="5000-9999">0.45</span></td>
-						<td>$<span data-qty-range="10000-19999">0.44</span></td>
-						<td>$<span data-qty-range="20000-49999">0.42</span></td>
-						<td>$<span data-qty-range="50000-99999">0.42</span></td>
-						<td>$<span data-qty-range="100000-199999">0.42</span></td>
+						<td>$<span data-qty-range="20-49">3.82</span></td>
+						<td>$<span data-qty-range="50-99">2.46</span></td>
+						<td>$<span data-qty-range="100-199">1.74</span></td>
+						<td>$<span data-qty-range="200-299">1.05</span></td>
+						<td>$<span data-qty-range="300-499">0.95</span></td>
+						<td>$<span data-qty-range="500-999">0.85</span></td>
+						<td>$<span data-qty-range="1000-1999">0.48</span></td>
+						<td>$<span data-qty-range="2000-2999">0.43</span></td>
+						<td>$<span data-qty-range="3000-4999">0.43</span></td>
+						<td>$<span data-qty-range="5000-9999">0.39</span></td>
+						<td>$<span data-qty-range="10000-19999">0.38</span></td>
+						<td>$<span data-qty-range="20000-49999">0.36</span></td>
+						<td>$<span data-qty-range="50000-99999">0.36</span></td>
+						<td>$<span data-qty-range="100000-199999">0.36</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -729,20 +729,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">5.94</span></td>
-						<td>$<span data-qty-range="50-99">3.82</span></td>
-						<td>$<span data-qty-range="100-199">2.77</span></td>
+						<td>$<span data-qty-range="20-49">5.92</span></td>
+						<td>$<span data-qty-range="50-99">3.80</span></td>
+						<td>$<span data-qty-range="100-199">2.75</span></td>
 						<td>$<span data-qty-range="200-299">1.69</span></td>
-						<td>$<span data-qty-range="300-499">1.54</span></td>
-						<td>$<span data-qty-range="500-999">1.37</span></td>
-						<td>$<span data-qty-range="1000-1999">0.78</span></td>
-						<td>$<span data-qty-range="2000-2999">0.70</span></td>
-						<td>$<span data-qty-range="3000-4999">0.70</span></td>
+						<td>$<span data-qty-range="300-499">1.52</span></td>
+						<td>$<span data-qty-range="500-999">1.35</span></td>
+						<td>$<span data-qty-range="1000-1999">0.76</span></td>
+						<td>$<span data-qty-range="2000-2999">0.68</span></td>
+						<td>$<span data-qty-range="3000-4999">0.68</span></td>
 						<td>$<span data-qty-range="5000-9999">0.63</span></td>
-						<td>$<span data-qty-range="10000-19999">0.62</span></td>
-						<td>$<span data-qty-range="20000-49999">0.59</span></td>
-						<td>$<span data-qty-range="50000-99999">0.59</span></td>
-						<td>$<span data-qty-range="100000-199999">0.59</span></td>
+						<td>$<span data-qty-range="10000-19999">0.60</span></td>
+						<td>$<span data-qty-range="20000-49999">0.60</span></td>
+						<td>$<span data-qty-range="50000-99999">0.57</span></td>
+						<td>$<span data-qty-range="100000-199999">0.57</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -772,20 +772,20 @@
 				<tbody>
 					<tr>
 					<td class="uk-text-primary">Price</td>
-					<td>$<span data-qty-range="20-49">2.75</span></td>
-					<td>$<span data-qty-range="50-99">1.46</span></td>
-					<td>$<span data-qty-range="100-199">0.50</span></td>
-					<td>$<span data-qty-range="200-299">0.36</span></td>
-					<td>$<span data-qty-range="300-499">0.31</span></td>
-					<td>$<span data-qty-range="500-999">0.23</span></td>
-					<td>$<span data-qty-range="1000-1999">0.16</span></td>
-					<td>$<span data-qty-range="2000-2999">0.14</span></td>
-					<td>$<span data-qty-range="3000-4999">0.14</span></td>
-					<td>$<span data-qty-range="5000-9999">0.12</span></td>
-					<td>$<span data-qty-range="10000-19999">0.14</span></td>
-					<td>$<span data-qty-range="20000-49999">0.12</span></td>
-					<td>$<span data-qty-range="50000-99999">0.12</span></td>
-					<td>$<span data-qty-range="100000-199999">0.12</span></td>
+					<td>$<span data-qty-range="20-49">1.31</span></td>
+					<td>$<span data-qty-range="50-99">0.83</span></td>
+					<td>$<span data-qty-range="100-199">0.41</span></td>
+					<td>$<span data-qty-range="200-299">0.32</span></td>
+					<td>$<span data-qty-range="300-499">0.29</span></td>
+					<td>$<span data-qty-range="500-999">0.21</span></td>
+					<td>$<span data-qty-range="1000-1999">0.15</span></td>
+					<td>$<span data-qty-range="2000-2999">0.15</span></td>
+					<td>$<span data-qty-range="3000-4999">0.15</span></td>
+					<td>$<span data-qty-range="5000-9999">0.13</span></td>
+					<td>$<span data-qty-range="10000-19999">0.11</span></td>
+					<td>$<span data-qty-range="20000-49999">0.10</span></td>
+					<td>$<span data-qty-range="50000-99999">0.07</span></td>
+					<td>$<span data-qty-range="100000-199999">0.06</span></td>
 					</tr>
 				</tbody>
 			</table>
@@ -813,20 +813,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">3.35</span></td>
-						<td>$<span data-qty-range="50-99">1.54</span></td>
-						<td>$<span data-qty-range="100-199">0.53</span></td>
-						<td>$<span data-qty-range="200-299">0.31</span></td>
-						<td>$<span data-qty-range="300-499">0.27</span></td>
-						<td>$<span data-qty-range="500-999">0.24</span></td>
-						<td>$<span data-qty-range="1000-1999">0.17</span></td>
-						<td>$<span data-qty-range="2000-2999">0.17</span></td>
-						<td>$<span data-qty-range="3000-4999">0.17</span></td>
-						<td>$<span data-qty-range="5000-9999">0.16</span></td>
-						<td>$<span data-qty-range="10000-19999">0.19</span></td>
-						<td>$<span data-qty-range="20000-49999">0.19</span></td>
-						<td>$<span data-qty-range="50000-99999">0.19</span></td>
-						<td>$<span data-qty-range="100000-199999">0.14</span></td>
+						<td>$<span data-qty-range="20-49">1.33</span></td>
+						<td>$<span data-qty-range="50-99">0.71</span></td>
+						<td>$<span data-qty-range="100-199">0.48</span></td>
+						<td>$<span data-qty-range="200-299">0.28</span></td>
+						<td>$<span data-qty-range="300-499">0.25</span></td>
+						<td>$<span data-qty-range="500-999">0.22</span></td>
+						<td>$<span data-qty-range="1000-1999">0.13</span></td>
+						<td>$<span data-qty-range="2000-2999">0.13</span></td>
+						<td>$<span data-qty-range="3000-4999">0.13</span></td>
+						<td>$<span data-qty-range="5000-9999">0.13</span></td>
+						<td>$<span data-qty-range="10000-19999">0.13</span></td>
+						<td>$<span data-qty-range="20000-49999">0.12</span></td>
+						<td>$<span data-qty-range="50000-99999">0.09</span></td>
+						<td>$<span data-qty-range="100000-199999">0.07</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -854,20 +854,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">7.99</span></td>
-						<td>$<span data-qty-range="50-99">6.22</span></td>
-						<td>$<span data-qty-range="100-199">0.94</span></td>
-						<td>$<span data-qty-range="200-299">0.65</span></td>
-						<td>$<span data-qty-range="300-499">0.57</span></td>
-						<td>$<span data-qty-range="500-999">0.50</span></td>
-						<td>$<span data-qty-range="1000-1999">0.39</span></td>
-						<td>$<span data-qty-range="2000-2999">0.38</span></td>
-						<td>$<span data-qty-range="3000-4999">0.38</span></td>
-						<td>$<span data-qty-range="5000-9999">0.34</span></td>
-						<td>$<span data-qty-range="10000-19999">0.37</span></td>
-						<td>$<span data-qty-range="20000-49999">0.36</span></td>
-						<td>$<span data-qty-range="50000-99999">0.36</span></td>
-						<td>$<span data-qty-range="100000-199999">0.35</span></td>
+						<td>$<span data-qty-range="20-49">3.67</span></td>
+						<td>$<span data-qty-range="50-99">3.07</span></td>
+						<td>$<span data-qty-range="100-199">0.63</span></td>
+						<td>$<span data-qty-range="200-299">0.38</span></td>
+						<td>$<span data-qty-range="300-499">0.33</span></td>
+						<td>$<span data-qty-range="500-999">0.28</span></td>
+						<td>$<span data-qty-range="1000-1999">0.18</span></td>
+						<td>$<span data-qty-range="2000-2999">0.18</span></td>
+						<td>$<span data-qty-range="3000-4999">0.18</span></td>
+						<td>$<span data-qty-range="5000-9999">0.18</span></td>
+						<td>$<span data-qty-range="10000-19999">0.18</span></td>
+						<td>$<span data-qty-range="20000-49999">0.18</span></td>
+						<td>$<span data-qty-range="50000-99999">0.18</span></td>
+						<td>$<span data-qty-range="100000-199999">0.18</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -895,20 +895,20 @@
 				<tbody>
 					<tr>
 					<td class="uk-text-primary">Price</td>
-					<td>$<span data-qty-range="20-49">7.99</span></td>
-					<td>$<span data-qty-range="50-99">5.66</span></td>
-					<td>$<span data-qty-range="100-199">0.86</span></td>
-					<td>$<span data-qty-range="200-299">0.59</span></td>
-					<td>$<span data-qty-range="300-499">0.52</span></td>
-					<td>$<span data-qty-range="500-999">0.45</span></td>
-					<td>$<span data-qty-range="1000-1999">0.36</span></td>
-					<td>$<span data-qty-range="2000-2999">0.35</span></td>
-					<td>$<span data-qty-range="3000-4999">0.35</span></td>
-					<td>$<span data-qty-range="5000-9999">0.31</span></td>
-					<td>$<span data-qty-range="10000-19999">0.37</span></td>
-					<td>$<span data-qty-range="20000-49999">0.36</span></td>
-					<td>$<span data-qty-range="50000-99999">0.36</span></td>
-					<td>$<span data-qty-range="100000-199999">0.35</span></td>
+					<td>$<span data-qty-range="20-49">3.13</span></td>
+					<td>$<span data-qty-range="50-99">2.21</span></td>
+					<td>$<span data-qty-range="100-199">0.78</span></td>
+					<td>$<span data-qty-range="200-299">0.78</span></td>
+					<td>$<span data-qty-range="300-499">0.38</span></td>
+					<td>$<span data-qty-range="500-999">0.33</span></td>
+					<td>$<span data-qty-range="1000-1999">0.23</span></td>
+					<td>$<span data-qty-range="2000-2999">0.22</span></td>
+					<td>$<span data-qty-range="3000-4999">0.22</span></td>
+					<td>$<span data-qty-range="5000-9999">0.22</span></td>
+					<td>$<span data-qty-range="10000-19999">0.22</span></td>
+					<td>$<span data-qty-range="20000-49999">0.22</span></td>
+					<td>$<span data-qty-range="50000-99999">0.19</span></td>
+					<td>$<span data-qty-range="100000-199999">0.19</span></td>
 					</tr>
 				</tbody>
 			</table>
@@ -936,20 +936,20 @@
 				<tbody>
 					<tr>
 					<td class="uk-text-primary">Price</td>
-					<td>$<span data-qty-range="20-49">4.66</span></td>
-					<td>$<span data-qty-range="50-99">3.00</span></td>
-					<td>$<span data-qty-range="100-199">2.18</span></td>
-					<td>$<span data-qty-range="200-299">1.33</span></td>
-					<td>$<span data-qty-range="300-499">1.21</span></td>
-					<td>$<span data-qty-range="500-999">1.08</span></td>
-					<td>$<span data-qty-range="1000-1999">0.62</span></td>
-					<td>$<span data-qty-range="2000-2999">0.55</span></td>
-					<td>$<span data-qty-range="3000-4999">0.55</span></td>
-					<td>$<span data-qty-range="5000-9999">0.50</span></td>
-					<td>$<span data-qty-range="10000-19999">0.48</span></td>
-					<td>$<span data-qty-range="20000-49999">0.46</span></td>
-					<td>$<span data-qty-range="50000-99999">0.46</span></td>
-					<td>$<span data-qty-range="100000-199999">0.46</span></td>
+					<td>$<span data-qty-range="20-49">3.82</span></td>
+					<td>$<span data-qty-range="50-99">2.46</span></td>
+					<td>$<span data-qty-range="100-199">1.74</span></td>
+					<td>$<span data-qty-range="200-299">1.05</span></td>
+					<td>$<span data-qty-range="300-499">0.95</span></td>
+					<td>$<span data-qty-range="500-999">0.86</span></td>
+					<td>$<span data-qty-range="1000-1999">0.48</span></td>
+					<td>$<span data-qty-range="2000-2999">0.43</span></td>
+					<td>$<span data-qty-range="3000-4999">0.43</span></td>
+					<td>$<span data-qty-range="5000-9999">0.39</span></td>
+					<td>$<span data-qty-range="10000-19999">0.38</span></td>
+					<td>$<span data-qty-range="20000-49999">0.36</span></td>
+					<td>$<span data-qty-range="50000-99999">0.36</span></td>
+					<td>$<span data-qty-range="100000-199999">0.36</span></td>
 					</tr>
 				</tbody>
 			</table>
@@ -977,20 +977,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">6.52</span></td>
-						<td>$<span data-qty-range="50-99">3.82</span></td>
-						<td>$<span data-qty-range="100-199">2.77</span></td>
-						<td>$<span data-qty-range="200-299">1.86</span></td>
-						<td>$<span data-qty-range="300-499">1.54</span></td>
-						<td>$<span data-qty-range="500-999">1.37</span></td>
-						<td>$<span data-qty-range="1000-1999">0.78</span></td>
-						<td>$<span data-qty-range="2000-2999">0.70</span></td>
-						<td>$<span data-qty-range="3000-4999">0.70</span></td>
-						<td>$<span data-qty-range="5000-9999">0.70</span></td>
-						<td>$<span data-qty-range="10000-19999">0.67</span></td>
-						<td>$<span data-qty-range="20000-49999">0.64</span></td>
-						<td>$<span data-qty-range="50000-99999">0.64</span></td>
-						<td>$<span data-qty-range="100000-199999">0.64</span></td>
+						<td>$<span data-qty-range="20-49">5.92</span></td>
+						<td>$<span data-qty-range="50-99">3.80</span></td>
+						<td>$<span data-qty-range="100-199">2.75</span></td>
+						<td>$<span data-qty-range="200-299">1.79</span></td>
+						<td>$<span data-qty-range="300-499">1.52</span></td>
+						<td>$<span data-qty-range="500-999">1.35</span></td>
+						<td>$<span data-qty-range="1000-1999">0.76</span></td>
+						<td>$<span data-qty-range="2000-2999">0.68</span></td>
+						<td>$<span data-qty-range="3000-4999">0.66</span></td>
+						<td>$<span data-qty-range="5000-9999">0.66</span></td>
+						<td>$<span data-qty-range="10000-19999">0.60</span></td>
+						<td>$<span data-qty-range="20000-49999">0.60</span></td>
+						<td>$<span data-qty-range="50000-99999">0.57</span></td>
+						<td>$<span data-qty-range="100000-199999">0.57</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -1020,20 +1020,20 @@
 				<tbody>
 					<tr>
 					<td class="uk-text-primary">Price</td>
-					<td>$<span data-qty-range="20-49">3.40</span></td>
-					<td>$<span data-qty-range="50-99">1.89</span></td>
-					<td>$<span data-qty-range="100-199">0.85</span></td>
-					<td>$<span data-qty-range="200-299">0.95</span></td>
-					<td>$<span data-qty-range="300-499">0.95</span></td>
-					<td>$<span data-qty-range="500-999">0.75</span></td>
-					<td>$<span data-qty-range="1000-1999">0.50</span></td>
-					<td>$<span data-qty-range="2000-2999">0.43</span></td>
-					<td>$<span data-qty-range="3000-4999">0.42</span></td>
-					<td>$<span data-qty-range="5000-9999">0.32</span></td>
-					<td>$<span data-qty-range="10000-19999">0.22</span></td>
-					<td>$<span data-qty-range="20000-49999">0.22</span></td>
-					<td>$<span data-qty-range="50000-99999">0.22</span></td>
-					<td>$<span data-qty-range="100000-199999">0.21</span></td>
+					<td>$<span data-qty-range="20-49">3.48</span></td>
+					<td>$<span data-qty-range="50-99">2.09</span></td>
+					<td>$<span data-qty-range="100-199">0.93</span></td>
+					<td>$<span data-qty-range="200-299">0.86</span></td>
+					<td>$<span data-qty-range="300-499">0.84</span></td>
+					<td>$<span data-qty-range="500-999">0.82</span></td>
+					<td>$<span data-qty-range="1000-1999">0.54</span></td>
+					<td>$<span data-qty-range="2000-2999">0.47</span></td>
+					<td>$<span data-qty-range="3000-4999">0.47</span></td>
+					<td>$<span data-qty-range="5000-9999">0.34</span></td>
+					<td>$<span data-qty-range="10000-19999">0.23</span></td>
+					<td>$<span data-qty-range="20000-49999">0.23</span></td>
+					<td>$<span data-qty-range="50000-99999">0.23</span></td>
+					<td>$<span data-qty-range="100000-199999">0.22</span></td>
 							</tr>
 				</tbody>
 			</table>
@@ -1061,20 +1061,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">3.40</span></td>
-						<td>$<span data-qty-range="50-99">1.75</span></td>
-						<td>$<span data-qty-range="100-199">1.20</span></td>
-						<td>$<span data-qty-range="200-299">0.95</span></td>
-						<td>$<span data-qty-range="300-499">0.95</span></td>
-						<td>$<span data-qty-range="500-999">0.85</span></td>
-						<td>$<span data-qty-range="1000-1999">0.58</span></td>
-						<td>$<span data-qty-range="2000-2999">0.42</span></td>
-						<td>$<span data-qty-range="3000-4999">0.42</span></td>
-						<td>$<span data-qty-range="5000-9999">0.34</span></td>
-						<td>$<span data-qty-range="10000-19999">0.30</span></td>
-						<td>$<span data-qty-range="20000-49999">0.24</span></td>
-						<td>$<span data-qty-range="50000-99999">0.24</span></td>
-						<td>$<span data-qty-range="100000-199999">0.19</span></td>
+						<td>$<span data-qty-range="20-49">3.78</span></td>
+						<td>$<span data-qty-range="50-99">1.89</span></td>
+						<td>$<span data-qty-range="100-199">0.85</span></td>
+						<td>$<span data-qty-range="200-299">0.98</span></td>
+						<td>$<span data-qty-range="300-499">1.12</span></td>
+						<td>$<span data-qty-range="500-999">0.75</span></td>
+						<td>$<span data-qty-range="1000-1999">0.50</span></td>
+						<td>$<span data-qty-range="2000-2999">0.43</span></td>
+						<td>$<span data-qty-range="3000-4999">0.43</span></td>
+						<td>$<span data-qty-range="5000-9999">0.32</span></td>
+						<td>$<span data-qty-range="10000-19999">0.22</span></td>
+						<td>$<span data-qty-range="20000-49999">0.22</span></td>
+						<td>$<span data-qty-range="50000-99999">0.22</span></td>
+						<td>$<span data-qty-range="100000-199999">0.21</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -1102,20 +1102,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">10.98</span></td>
-						<td>$<span data-qty-range="50-99">9.89</span></td>
-						<td>$<span data-qty-range="100-199">2.63</span></td>
-						<td>$<span data-qty-range="200-299">1.98</span></td>
-						<td>$<span data-qty-range="300-499">1.95</span></td>
-						<td>$<span data-qty-range="500-999">1.86</span></td>
-						<td>$<span data-qty-range="1000-1999">1.32</span></td>
-						<td>$<span data-qty-range="2000-2999">1.26</span></td>
-						<td>$<span data-qty-range="3000-4999">1.21</span></td>
-						<td>$<span data-qty-range="5000-9999">1.21</span></td>
-						<td>$<span data-qty-range="10000-19999">1.12</span></td>
-						<td>$<span data-qty-range="20000-49999">1.10</span></td>
-						<td>$<span data-qty-range="50000-99999">1.10</span></td>
-						<td>$<span data-qty-range="100000-199999">1.09</span></td>
+						<td>$<span data-qty-range="20-49">5.61</span></td>
+						<td>$<span data-qty-range="50-99">4.36</span></td>
+						<td>$<span data-qty-range="100-199">1.34</span></td>
+						<td>$<span data-qty-range="200-299">1.29</span></td>
+						<td>$<span data-qty-range="300-499">1.16</span></td>
+						<td>$<span data-qty-range="500-999">1.15</span></td>
+						<td>$<span data-qty-range="1000-1999">1.01</span></td>
+						<td>$<span data-qty-range="2000-2999">0.90</span></td>
+						<td>$<span data-qty-range="3000-4999">0.90</span></td>
+						<td>$<span data-qty-range="5000-9999">0.67</span></td>
+						<td>$<span data-qty-range="10000-19999">0.44</span></td>
+						<td>$<span data-qty-range="20000-49999">0.16</span></td>
+						<td>$<span data-qty-range="50000-99999">0.12</span></td>
+						<td>$<span data-qty-range="100000-199999">0.09</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -1143,20 +1143,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">10.98</span></td>
-						<td>$<span data-qty-range="50-99">9.89</span></td>
-						<td>$<span data-qty-range="100-199">2.63</span></td>
-						<td>$<span data-qty-range="200-299">1.98</span></td>
-						<td>$<span data-qty-range="300-499">1.95</span></td>
-						<td>$<span data-qty-range="500-999">1.86</span></td>
-						<td>$<span data-qty-range="1000-1999">1.32</span></td>
-						<td>$<span data-qty-range="2000-2999">1.26</span></td>
-						<td>$<span data-qty-range="3000-4999">1.21</span></td>
-						<td>$<span data-qty-range="5000-9999">1.21</span></td>
-						<td>$<span data-qty-range="10000-19999">1.12</span></td>
-						<td>$<span data-qty-range="20000-49999">1.10</span></td>
-						<td>$<span data-qty-range="50000-99999">1.10</span></td>
-						<td>$<span data-qty-range="100000-199999">1.09</span></td>
+						<td>$<span data-qty-range="20-49">4.39</span></td>
+						<td>$<span data-qty-range="50-99">3.41</span></td>
+						<td>$<span data-qty-range="100-199">1.08</span></td>
+						<td>$<span data-qty-range="200-299">1.04</span></td>
+						<td>$<span data-qty-range="300-499">0.94</span></td>
+						<td>$<span data-qty-range="500-999">0.92</span></td>
+						<td>$<span data-qty-range="1000-1999">0.81</span></td>
+						<td>$<span data-qty-range="2000-2999">0.72</span></td>
+						<td>$<span data-qty-range="3000-4999">0.72</span></td>
+						<td>$<span data-qty-range="5000-9999">0.54</span></td>
+						<td>$<span data-qty-range="10000-19999">0.36</span></td>
+						<td>$<span data-qty-range="20000-49999">0.14</span></td>
+						<td>$<span data-qty-range="50000-99999">0.11</span></td>
+						<td>$<span data-qty-range="100000-199999">0.09</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -1269,19 +1269,19 @@
 					<tr>
 					<td class="uk-text-primary">Price</td>
 					<td>$<span data-qty-range="20-49">4.90</span></td>
-					<td>$<span data-qty-range="50-99">1.50</span></td>
-					<td>$<span data-qty-range="100-199">1.13</span></td>
-					<td>$<span data-qty-range="200-299">0.77</span></td>
-					<td>$<span data-qty-range="300-499">0.68</span></td>
-					<td>$<span data-qty-range="500-999">0.58</span></td>
-					<td>$<span data-qty-range="1000-1999">0.48</span></td>
-					<td>$<span data-qty-range="2000-2999">0.33</span></td>
+					<td>$<span data-qty-range="50-99">2.82</span></td>
+					<td>$<span data-qty-range="100-199">1.11</span></td>
+					<td>$<span data-qty-range="200-299">0.75</span></td>
+					<td>$<span data-qty-range="300-499">0.66</span></td>
+					<td>$<span data-qty-range="500-999">0.56</span></td>
+					<td>$<span data-qty-range="1000-1999">0.46</span></td>
+					<td>$<span data-qty-range="2000-2999">0.31</span></td>
 					<td>$<span data-qty-range="3000-4999">0.31</span></td>
-					<td>$<span data-qty-range="5000-9999">0.25</span></td>
-					<td>$<span data-qty-range="10000-19999">0.25</span></td>
-					<td>$<span data-qty-range="20000-49999">0.25</span></td>
-					<td>$<span data-qty-range="50000-99999">0.25</span></td>
-					<td>$<span data-qty-range="100000-199999">0.25</span></td>
+					<td>$<span data-qty-range="5000-9999">0.23</span></td>
+					<td>$<span data-qty-range="10000-19999">0.23</span></td>
+					<td>$<span data-qty-range="20000-49999">0.23</span></td>
+					<td>$<span data-qty-range="50000-99999">0.23</span></td>
+					<td>$<span data-qty-range="100000-199999">0.23</span></td>
 					</tr>
 				</tbody>
 			</table>
@@ -1309,20 +1309,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">4.90</span></td>
-						<td>$<span data-qty-range="50-99">3.50</span></td>
-						<td>$<span data-qty-range="100-199">1.55</span></td>
-						<td>$<span data-qty-range="200-299">1.01</span></td>
-						<td>$<span data-qty-range="300-499">0.84</span></td>
-						<td>$<span data-qty-range="500-999">0.71</span></td>
-						<td>$<span data-qty-range="1000-1999">0.59</span></td>
-						<td>$<span data-qty-range="2000-2999">0.41</span></td>
-						<td>$<span data-qty-range="3000-4999">0.31</span></td>
-						<td>$<span data-qty-range="5000-9999">0.31</span></td>
-						<td>$<span data-qty-range="10000-19999">0.31</span></td>
-						<td>$<span data-qty-range="20000-49999">0.31</span></td>
-						<td>$<span data-qty-range="50000-99999">0.31</span></td>
-						<td>$<span data-qty-range="100000-199999">0.31</span></td>
+						<td>$<span data-qty-range="20-49">4.41</span></td>
+						<td>$<span data-qty-range="50-99">2.84</span></td>
+						<td>$<span data-qty-range="100-199">1.26</span></td>
+						<td>$<span data-qty-range="200-299">0.82</span></td>
+						<td>$<span data-qty-range="300-499">0.68</span></td>
+						<td>$<span data-qty-range="500-999">0.58</span></td>
+						<td>$<span data-qty-range="1000-1999">0.48</span></td>
+						<td>$<span data-qty-range="2000-2999">0.33</span></td>
+						<td>$<span data-qty-range="3000-4999">0.25</span></td>
+						<td>$<span data-qty-range="5000-9999">0.25</span></td>
+						<td>$<span data-qty-range="10000-19999">0.25</span></td>
+						<td>$<span data-qty-range="20000-49999">0.25</span></td>
+						<td>$<span data-qty-range="50000-99999">0.25</span></td>
+						<td>$<span data-qty-range="100000-199999">0.25</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -1350,20 +1350,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">10.78</span></td>
-						<td>$<span data-qty-range="50-99">6.24</span></td>
-						<td>$<span data-qty-range="100-199">2.76</span></td>
-						<td>$<span data-qty-range="200-299">1.80</span></td>
-						<td>$<span data-qty-range="300-499">1.50</span></td>
-						<td>$<span data-qty-range="500-999">1.26</span></td>
-						<td>$<span data-qty-range="1000-1999">1.05</span></td>
-						<td>$<span data-qty-range="2000-2999">0.73</span></td>
-						<td>$<span data-qty-range="3000-4999">0.55</span></td>
-						<td>$<span data-qty-range="5000-9999">0.55</span></td>
-						<td>$<span data-qty-range="10000-19999">0.55</span></td>
-						<td>$<span data-qty-range="20000-49999">0.54</span></td>
-						<td>$<span data-qty-range="50000-99999">0.54</span></td>
-						<td>$<span data-qty-range="100000-199999">0.54</span></td>
+						<td>$<span data-qty-range="20-49">8.71</span></td>
+						<td>$<span data-qty-range="50-99">6.22</span></td>
+						<td>$<span data-qty-range="100-199">2.74</span></td>
+						<td>$<span data-qty-range="200-299">1.78</span></td>
+						<td>$<span data-qty-range="300-499">1.48</span></td>
+						<td>$<span data-qty-range="500-999">1.24</span></td>
+						<td>$<span data-qty-range="1000-1999">1.03</span></td>
+						<td>$<span data-qty-range="2000-2999">0.71</span></td>
+						<td>$<span data-qty-range="3000-4999">0.53</span></td>
+						<td>$<span data-qty-range="5000-9999">0.53</span></td>
+						<td>$<span data-qty-range="10000-19999">0.53</span></td>
+						<td>$<span data-qty-range="20000-49999">0.52</span></td>
+						<td>$<span data-qty-range="50000-99999">0.52</span></td>
+						<td>$<span data-qty-range="100000-199999">0.49</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -1391,20 +1391,20 @@
 						<tbody>
 							<tr>
 							<td class="uk-text-primary">Price</td>
-							<td>$<span data-qty-range="20-49">10.78</span></td>
-							<td>$<span data-qty-range="50-99">5.67</span></td>
-							<td>$<span data-qty-range="100-199">2.51</span></td>
-							<td>$<span data-qty-range="200-299">1.64</span></td>
-							<td>$<span data-qty-range="300-499">1.36</span></td>
-							<td>$<span data-qty-range="500-999">1.15</span></td>
-							<td>$<span data-qty-range="1000-1999">0.95</span></td>
-							<td>$<span data-qty-range="2000-2999">0.67</span></td>
-							<td>$<span data-qty-range="3000-4999">0.68</span></td>
-							<td>$<span data-qty-range="5000-9999">0.68</span></td>
-							<td>$<span data-qty-range="10000-19999">0.50</span></td>
-							<td>$<span data-qty-range="20000-49999">0.50</span></td>
-							<td>$<span data-qty-range="50000-99999">0.49</span></td>
-							<td>$<span data-qty-range="100000-199999">0.49</span></td>
+							<td>$<span data-qty-range="20-49">8.82</span></td>
+							<td>$<span data-qty-range="50-99">5.65</span></td>
+							<td>$<span data-qty-range="100-199">2.49</span></td>
+							<td>$<span data-qty-range="200-299">1.62</span></td>
+							<td>$<span data-qty-range="300-499">1.34</span></td>
+							<td>$<span data-qty-range="500-999">1.13</span></td>
+							<td>$<span data-qty-range="1000-1999">0.93</span></td>
+							<td>$<span data-qty-range="2000-2999">0.65</span></td>
+							<td>$<span data-qty-range="3000-4999">0.50</span></td>
+							<td>$<span data-qty-range="5000-9999">0.48</span></td>
+							<td>$<span data-qty-range="10000-19999">0.48</span></td>
+							<td>$<span data-qty-range="20000-49999">0.48</span></td>
+							<td>$<span data-qty-range="50000-99999">0.47</span></td>
+							<td>$<span data-qty-range="100000-199999">0.47</span></td>
 							</tr>
 						</tbody>
 			</table>
@@ -1432,20 +1432,20 @@
 					<tbody>
 						<tr>
 						<td class="uk-text-primary">Price</td>
-						<td>$<span data-qty-range="20-49">9.80</span></td>
-						<td>$<span data-qty-range="50-99">7.00</span></td>
-						<td>$<span data-qty-range="100-199">3.10</span></td>
-						<td>$<span data-qty-range="200-299">2.02</span></td>
-						<td>$<span data-qty-range="300-499">1.68</span></td>
-						<td>$<span data-qty-range="500-999">1.42</span></td>
-						<td>$<span data-qty-range="1000-1999">1.18</span></td>
-						<td>$<span data-qty-range="2000-2999">0.82</span></td>
-						<td>$<span data-qty-range="3000-4999">0.62</span></td>
-						<td>$<span data-qty-range="5000-9999">0.62</span></td>
-						<td>$<span data-qty-range="10000-19999">0.62</span></td>
-						<td>$<span data-qty-range="20000-49999">0.62</span></td>
-						<td>$<span data-qty-range="50000-99999">0.62</span></td>
-						<td>$<span data-qty-range="100000-199999">0.62</span></td>
+						<td>$<span data-qty-range="20-49">8.82</span></td>
+						<td>$<span data-qty-range="50-99">6.30</span></td>
+						<td>$<span data-qty-range="100-199">2.75</span></td>
+						<td>$<span data-qty-range="200-299">1.78</span></td>
+						<td>$<span data-qty-range="300-499">1.47</span></td>
+						<td>$<span data-qty-range="500-999">1.26</span></td>
+						<td>$<span data-qty-range="1000-1999">1.04</span></td>
+						<td>$<span data-qty-range="2000-2999">0.72</span></td>
+						<td>$<span data-qty-range="3000-4999">0.54</span></td>
+						<td>$<span data-qty-range="5000-9999">0.54</span></td>
+						<td>$<span data-qty-range="10000-19999">0.54</span></td>
+						<td>$<span data-qty-range="20000-49999">0.54</span></td>
+						<td>$<span data-qty-range="50000-99999">0.54</span></td>
+						<td>$<span data-qty-range="100000-199999">0.54</span></td>
 						</tr>
 					</tbody>
 			</table>
@@ -1473,24 +1473,520 @@
 						<tbody>
 							<tr>
 							<td class="uk-text-primary">Price</td>
-							<td>$<span data-qty-range="20-49">13.72</span></td>
-							<td>$<span data-qty-range="50-99">9.80</span></td>
-							<td>$<span data-qty-range="100-199">4.34</span></td>
+							<td>$<span data-qty-range="20-49">13.70</span></td>
+							<td>$<span data-qty-range="50-99">9.78</span></td>
+							<td>$<span data-qty-range="100-199">4.32</span></td>
 							<td>$<span data-qty-range="200-299">2.83</span></td>
-							<td>$<span data-qty-range="300-499">2.35</span></td>
-							<td>$<span data-qty-range="500-999">1.99</span></td>
-							<td>$<span data-qty-range="1000-1999">1.65</span></td>
-							<td>$<span data-qty-range="2000-2999">1.15</span></td>
+							<td>$<span data-qty-range="300-499">2.33</span></td>
+							<td>$<span data-qty-range="500-999">1.97</span></td>
+							<td>$<span data-qty-range="1000-1999">1.63</span></td>
+							<td>$<span data-qty-range="2000-2999">1.13</span></td>
 							<td>$<span data-qty-range="3000-4999">0.87</span></td>
 							<td>$<span data-qty-range="5000-9999">0.87</span></td>
-							<td>$<span data-qty-range="10000-19999">0.87</span></td>
-							<td>$<span data-qty-range="20000-49999">0.87</span></td>
-							<td>$<span data-qty-range="50000-99999">0.87</span></td>
-							<td>$<span data-qty-range="100000-199999">0.87</span></td>
+							<td>$<span data-qty-range="10000-19999">0.85</span></td>
+							<td>$<span data-qty-range="20000-49999">0.85</span></td>
+							<td>$<span data-qty-range="50000-99999">0.85</span></td>
+							<td>$<span data-qty-range="100000-199999">0.85</span></td>
 							</tr>
 						</tbody>
 			</table>
 			<!---------END EMBOSSED PRINTED ------------>
+			<!--------- FIGURED  ------------>
+			<table class="table-area-figured-half uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Figured wristbands (1/2&quot;) as of July, 2016</caption>
+				<thead>
+				<tr>
+				<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+				<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+				<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+				<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+				<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+				<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+				<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+				<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr>
+				<td class="uk-text-primary">Price</td>
+				<td>$<span data-qty-range="20-49">9.30</span></td>
+				<td>$<span data-qty-range="50-99">3.90</span></td>
+				<td>$<span data-qty-range="100-199">2.42</span></td>
+				<td>$<span data-qty-range="200-299">1.35</span></td>
+				<td>$<span data-qty-range="300-499">0.80</span></td>
+				<td>$<span data-qty-range="500-999">0.41</span></td>
+				<td>$<span data-qty-range="1000-1999">0.28</span></td>
+				<td>$<span data-qty-range="2000-2999">0.28</span></td>
+				<td>$<span data-qty-range="3000-4999">0.28</span></td>
+				<td>$<span data-qty-range="5000-9999">0.26</span></td>
+				<td>$<span data-qty-range="10000-19999">0.25</span></td>
+				<td>$<span data-qty-range="20000-49999">0.25</span></td>
+				<td>$<span data-qty-range="50000-99999">0.25</span></td>
+				<td>$<span data-qty-range="100000-199999">0.18</span></td>
+				</tr>
+				</tbody>
+			</table>
+			<table class="table-area-figured-quarter uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Figured wristbands (1/4&quot;) as of July, 2016</caption>
+					<thead>
+						<tr>
+						<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+						<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+						<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+						<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+						<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+						<td class="uk-text-primary">Price</td>
+						<td>$<span data-qty-range="20-49">3.35</span></td>
+						<td>$<span data-qty-range="50-99">1.35</span></td>
+						<td>$<span data-qty-range="100-199">0.99</span></td>
+						<td>$<span data-qty-range="200-299">0.57</span></td>
+						<td>$<span data-qty-range="300-499">0.49</span></td>
+						<td>$<span data-qty-range="500-999">0.45</span></td>
+						<td>$<span data-qty-range="1000-1999">0.32</span></td>
+						<td>$<span data-qty-range="2000-2999">0.32</span></td>
+						<td>$<span data-qty-range="3000-4999">0.32</span></td>
+						<td>$<span data-qty-range="5000-9999">0.32</span></td>
+						<td>$<span data-qty-range="10000-19999">0.30</span></td>
+						<td>$<span data-qty-range="20000-49999">0.29</span></td>
+						<td>$<span data-qty-range="50000-99999">0.29</span></td>
+						<td>$<span data-qty-range="100000-199999">0.21</span></td>
+						</tr>
+					</tbody>
+			</table>
+			<table class="table-area-figured-three-fourth uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Figured wristbands (3/4&quot;) as of July, 2016</caption>
+					<thead>
+						<tr>
+						<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+						<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+						<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+						<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+						<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+						<td class="uk-text-primary">Price</td>
+						<td>$<span data-qty-range="20-49">11.53</span></td>
+						<td>$<span data-qty-range="50-99">9.88</span></td>
+						<td>$<span data-qty-range="100-199">1.88</span></td>
+						<td>$<span data-qty-range="200-299">1.36</span></td>
+						<td>$<span data-qty-range="300-499">1.20</span></td>
+						<td>$<span data-qty-range="500-999">1.08</span></td>
+						<td>$<span data-qty-range="1000-1999">0.91</span></td>
+						<td>$<span data-qty-range="2000-2999">0.88</span></td>
+						<td>$<span data-qty-range="3000-4999">0.88</span></td>
+						<td>$<span data-qty-range="5000-9999">0.79</span></td>
+						<td>$<span data-qty-range="10000-19999">0.76</span></td>
+						<td>$<span data-qty-range="20000-49999">0.76</span></td>
+						<td>$<span data-qty-range="50000-99999">0.76</span></td>
+						<td>$<span data-qty-range="100000-199999">0.75</span></td>
+						</tr>
+					</tbody>
+			</table>
+			<table class="table-area-figured-one uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Figured wristbands (1&quot;) as of July, 2016</caption>
+					<thead>
+						<tr>
+						<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+						<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+						<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+						<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+						<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+						<td class="uk-text-primary">Price</td>
+						<td>$<span data-qty-range="20-49">11.53</span></td>
+						<td>$<span data-qty-range="50-99">9.88</span></td>
+						<td>$<span data-qty-range="100-199">1.88</span></td>
+						<td>$<span data-qty-range="200-299">1.36</span></td>
+						<td>$<span data-qty-range="300-499">1.20</span></td>
+						<td>$<span data-qty-range="500-999">1.08</span></td>
+						<td>$<span data-qty-range="1000-1999">0.91</span></td>
+						<td>$<span data-qty-range="2000-2999">0.88</span></td>
+						<td>$<span data-qty-range="3000-4999">0.88</span></td>
+						<td>$<span data-qty-range="5000-9999">0.79</span></td>
+						<td>$<span data-qty-range="10000-19999">0.76</span></td>
+						<td>$<span data-qty-range="20000-49999">0.76</span></td>
+						<td>$<span data-qty-range="50000-99999">0.76</span></td>
+						<td>$<span data-qty-range="100000-199999">0.75</span></td>
+						</tr>
+					</tbody>
+			</table>
+			<table class="table-area-figured-one-half uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Figured wristbands (1 1/2&quot;) as of July, 2016</caption>
+				<thead>
+					<tr>
+					<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+					<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+					<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+					<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+					<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+					<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+					<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+					<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+					<td class="uk-text-primary">Price</td>
+					<td>$<span data-qty-range="20-49">15.00</span></td>
+					<td>$<span data-qty-range="50-99">6.00</span></td>
+					<td>$<span data-qty-range="100-199">3.00</span></td>
+					<td>$<span data-qty-range="200-299">2.17</span></td>
+					<td>$<span data-qty-range="300-499">1.90</span></td>
+					<td>$<span data-qty-range="500-999">1.72</span></td>
+					<td>$<span data-qty-range="1000-1999">1.46</span></td>
+					<td>$<span data-qty-range="2000-2999">1.40</span></td>
+					<td>$<span data-qty-range="3000-4999">1.40</span></td>
+					<td>$<span data-qty-range="5000-9999">1.26</span></td>
+					<td>$<span data-qty-range="10000-19999">1.20</span></td>
+					<td>$<span data-qty-range="20000-49999">1.20</span></td>
+					<td>$<span data-qty-range="50000-99999">1.20</span></td>
+					<td>$<span data-qty-range="100000-199999">1.19</span></td>
+					</tr>
+				</tbody>
+			</table>
+			<table class="table-area-figured-two uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+			 <caption class="uk-margin-bottom">Pricing for Figured wristbands (2&quot;) as of July, 2016</caption>
+				<thead>
+					<tr>
+					<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+					<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+					<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+					<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+					<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+					<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+					<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+					<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+					<td class="uk-text-primary">Price</td>
+					<td>$<span data-qty-range="20-49">27.51</span></td>
+					<td>$<span data-qty-range="50-99">23.58</span></td>
+					<td>$<span data-qty-range="100-199">4.50</span></td>
+					<td>$<span data-qty-range="200-299">3.25</span></td>
+					<td>$<span data-qty-range="300-499">2.85</span></td>
+					<td>$<span data-qty-range="500-999">2.58</span></td>
+					<td>$<span data-qty-range="1000-1999">2.19</span></td>
+					<td>$<span data-qty-range="2000-2999">2.10</span></td>
+					<td>$<span data-qty-range="3000-4999">2.10</span></td>
+					<td>$<span data-qty-range="5000-9999">1.89</span></td>
+					<td>$<span data-qty-range="10000-19999">1.80</span></td>
+					<td>$<span data-qty-range="20000-49999">1.80</span></td>
+					<td>$<span data-qty-range="50000-99999">1.80</span></td>
+					<td>$<span data-qty-range="100000-199999">1.78</span></td>
+					</tr>
+				</tbody>
+			</table>
+			<!----------------END FIGURED --------------------------->
+			<!--------- BLANK STYLE  ------------>
+			<table class="table-area-blank-style-half uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Blank wristbands (1/2&quot;) as of July, 2016</caption>
+				<thead>
+				<tr>
+				<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+				<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+				<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+				<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+				<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+				<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+				<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+				<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+				<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+				</tr>
+				</thead>
+				<tbody>
+				<tr>
+				<td class="uk-text-primary">Price</td>
+				<td>$<span data-qty-range="20-49">1.31</span></td>
+				<td>$<span data-qty-range="50-99">0.83</span></td>
+				<td>$<span data-qty-range="100-199">0.41</span></td>
+				<td>$<span data-qty-range="200-299">0.32</span></td>
+				<td>$<span data-qty-range="300-499">0.29</span></td>
+				<td>$<span data-qty-range="500-999">0.21</span></td>
+				<td>$<span data-qty-range="1000-1999">0.15</span></td>
+				<td>$<span data-qty-range="2000-2999">0.15</span></td>
+				<td>$<span data-qty-range="3000-4999">0.15</span></td>
+				<td>$<span data-qty-range="5000-9999">0.13</span></td>
+				<td>$<span data-qty-range="10000-19999">0.11</span></td>
+				<td>$<span data-qty-range="20000-49999">0.10</span></td>
+				<td>$<span data-qty-range="50000-99999">0.07</span></td>
+				<td>$<span data-qty-range="100000-199999">0.06</span></td>
+				</tr>
+				</tbody>
+			</table>
+			<table class="table-area-blank-style-quarter uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Blank wristbands (1/4&quot;) as of July, 2016</caption>
+					<thead>
+						<tr>
+						<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+						<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+						<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+						<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+						<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+						<td class="uk-text-primary">Price</td>
+						<td>$<span data-qty-range="20-49">1.33</span></td>
+						<td>$<span data-qty-range="50-99">0.71</span></td>
+						<td>$<span data-qty-range="100-199">0.48</span></td>
+						<td>$<span data-qty-range="200-299">0.28</span></td>
+						<td>$<span data-qty-range="300-499">0.25</span></td>
+						<td>$<span data-qty-range="500-999">0.22</span></td>
+						<td>$<span data-qty-range="1000-1999">0.13</span></td>
+						<td>$<span data-qty-range="2000-2999">0.13</span></td>
+						<td>$<span data-qty-range="3000-4999">0.13</span></td>
+						<td>$<span data-qty-range="5000-9999">0.13</span></td>
+						<td>$<span data-qty-range="10000-19999">0.13</span></td>
+						<td>$<span data-qty-range="20000-49999">0.12</span></td>
+						<td>$<span data-qty-range="50000-99999">0.09</span></td>
+						<td>$<span data-qty-range="100000-199999">0.07</span></td>
+						</tr>
+					</tbody>
+			</table>
+			<table class="table-area-blank-style-three-fourth uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Blank wristbands (3/4&quot;) as of July, 2016</caption>
+					<thead>
+						<tr>
+						<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+						<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+						<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+						<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+						<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+						<td class="uk-text-primary">Price</td>
+						<td>$<span data-qty-range="20-49">3.67</span></td>
+						<td>$<span data-qty-range="50-99">3.07</span></td>
+						<td>$<span data-qty-range="100-199">0.63</span></td>
+						<td>$<span data-qty-range="200-299">0.38</span></td>
+						<td>$<span data-qty-range="300-499">0.33</span></td>
+						<td>$<span data-qty-range="500-999">0.28</span></td>
+						<td>$<span data-qty-range="1000-1999">0.18</span></td>
+						<td>$<span data-qty-range="2000-2999">0.18</span></td>
+						<td>$<span data-qty-range="3000-4999">0.18</span></td>
+						<td>$<span data-qty-range="5000-9999">0.18</span></td>
+						<td>$<span data-qty-range="10000-19999">0.18</span></td>
+						<td>$<span data-qty-range="20000-49999">0.18</span></td>
+						<td>$<span data-qty-range="50000-99999">0.18</span></td>
+						<td>$<span data-qty-range="100000-199999">0.18</span></td>
+						</tr>
+					</tbody>
+			</table>
+			<table class="table-area-blank-style-one uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Blank wristbands (1&quot;) as of July, 2016</caption>
+					<thead>
+						<tr>
+						<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+						<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+						<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+						<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+						<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+						<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+						<td class="uk-text-primary">Price</td>
+						<td>$<span data-qty-range="20-49">3.13</span></td>
+						<td>$<span data-qty-range="50-99">2.21</span></td>
+						<td>$<span data-qty-range="100-199">0.78</span></td>
+						<td>$<span data-qty-range="200-299">0.78</span></td>
+						<td>$<span data-qty-range="300-499">0.38</span></td>
+						<td>$<span data-qty-range="500-999">0.33</span></td>
+						<td>$<span data-qty-range="1000-1999">0.23</span></td>
+						<td>$<span data-qty-range="2000-2999">0.22</span></td>
+						<td>$<span data-qty-range="3000-4999">0.22</span></td>
+						<td>$<span data-qty-range="5000-9999">0.22</span></td>
+						<td>$<span data-qty-range="10000-19999">0.22</span></td>
+						<td>$<span data-qty-range="20000-49999">0.22</span></td>
+						<td>$<span data-qty-range="50000-99999">0.19</span></td>
+						<td>$<span data-qty-range="100000-199999">0.19</span></td>
+						</tr>
+					</tbody>
+			</table>
+			<table class="table-area-blank-style-one-half uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+				<caption class="uk-margin-bottom">Pricing for Blank wristbands (1 1/2&quot;) as of July, 2016</caption>
+				<thead>
+					<tr>
+					<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+					<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+					<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+					<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+					<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+					<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+					<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+					<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+					<td class="uk-text-primary">Price</td>
+					<td>$<span data-qty-range="20-49">3.82</span></td>
+					<td>$<span data-qty-range="50-99">2.46</span></td>
+					<td>$<span data-qty-range="100-199">1.74</span></td>
+					<td>$<span data-qty-range="200-299">1.05</span></td>
+					<td>$<span data-qty-range="300-499">0.95</span></td>
+					<td>$<span data-qty-range="500-999">0.86</span></td>
+					<td>$<span data-qty-range="1000-1999">0.48</span></td>
+					<td>$<span data-qty-range="2000-2999">0.43</span></td>
+					<td>$<span data-qty-range="3000-4999">0.43</span></td>
+					<td>$<span data-qty-range="5000-9999">0.39</span></td>
+					<td>$<span data-qty-range="10000-19999">0.38</span></td>
+					<td>$<span data-qty-range="20000-49999">0.36</span></td>
+					<td>$<span data-qty-range="50000-99999">0.36</span></td>
+					<td>$<span data-qty-range="100000-199999">0.36</span></td>
+					</tr>
+				</tbody>
+			</table>
+			<table class="table-area-blank-style-two uk-table uk-table-bordered js-pricing-table" data-pricing-tbl="" style="display:none;">
+			 <caption class="uk-margin-bottom">Pricing for Blank wristbands (2&quot;) as of July, 2016</caption>
+				<thead>
+					<tr>
+					<th data-uk-tooltip="{pos:'top'}" title="Quantity" class="uk-text-primary">Qty</th>
+					<th data-uk-tooltip="{pos:'top'}" title="20 to 49">20</th>
+					<th data-uk-tooltip="{pos:'top'}" title="50 to 99">50</th>
+					<th data-uk-tooltip="{pos:'top'}" title="100 to 199">100</th>
+					<th data-uk-tooltip="{pos:'top'}" title="200 to 299">200</th>
+					<th data-uk-tooltip="{pos:'top'}" title="300 to 499">300</th>
+					<th data-uk-tooltip="{pos:'top'}" title="500 to 999">500</th>
+					<th data-uk-tooltip="{pos:'top'}" title="1000 to 1999">1000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="2000 to 2999">2000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="3000 to 4999">3000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="5000 to 9999">5000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="10000 to 19999">10000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="20000 to 49999">20000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="50000 to 99999">50000</th>
+					<th data-uk-tooltip="{pos:'top'}" title="100000 to 199999">100000</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+					<td class="uk-text-primary">Price</td>
+					<td>$<span data-qty-range="20-49">5.92</span></td>
+					<td>$<span data-qty-range="50-99">3.80</span></td>
+					<td>$<span data-qty-range="100-199">2.75</span></td>
+					<td>$<span data-qty-range="200-299">1.79</span></td>
+					<td>$<span data-qty-range="300-499">1.52</span></td>
+					<td>$<span data-qty-range="500-999">1.35</span></td>
+					<td>$<span data-qty-range="1000-1999">0.76</span></td>
+					<td>$<span data-qty-range="2000-2999">0.68</span></td>
+					<td>$<span data-qty-range="3000-4999">0.66</span></td>
+					<td>$<span data-qty-range="5000-9999">0.66</span></td>
+					<td>$<span data-qty-range="10000-19999">0.60</span></td>
+					<td>$<span data-qty-range="20000-49999">0.60</span></td>
+					<td>$<span data-qty-range="50000-99999">0.57</span></td>
+					<td>$<span data-qty-range="100000-199999">0.57</span></td>
+					</tr>
+				</tbody>
+			</table>
+			<!--------------------------END BLANK STYLE-------------------------------------->
 		</div>
 		<!--------- WRIST STYLE ------------>
 		<div class="wrist-style">
@@ -1501,34 +1997,44 @@
 			</div>
 			<div class="wrist_style_container">
 				<div class="col-md-4 prod"  value="printed">
-				  <div class="box-thumb"><img src="assets/images/src/product1.jpg"></div>
+				  <div class="box-thumb"><img src="assets/images/src/Printed.png"></div>
 				  <input type="radio" name="wrist_style" id="printed" class="wrist_style" value="printed">
 				  <h2>Printed</h2> 
 				</div>
 				<div class="col-md-4 prod"  value="debossed">
-				  <div class="box-thumb"><img src="assets/images/src/product2.jpg"></div>
+				  <div class="box-thumb"><img src="assets/images/src/Debossed.png"></div>
 				  <input type="radio" name="wrist_style" id="debossed" class="wrist_style" value="debossed">
 				  <h2>Debossed</h2>
 				</div>
 				<div class="col-md-4 prod"  value="ink-injected">
-				  <div class="box-thumb"><img src="assets/images/src/product3.jpg"></div>
+				  <div class="box-thumb"><img src="assets/images/src/Color-Filled.png"></div>
 				  <input type="radio" name="wrist_style" id="ink-injected" class="wrist_style" value="ink-injected">
 				  <h2>Ink Injected</h2>
 				</div>
 				<div class="col-md-4 prod"  value="embossed">
-				  <div class="box-thumb"><img src="assets/images/src/product4.jpg"></div>
+				  <div class="box-thumb"><img src="assets/images/src/Embossed.png"></div>
 				  <input type="radio" name="wrist_style" id="embossed" class="wrist_style" value="embossed">
 				  <h2>Embossed</h2> 
 				</div>
 				<div class="col-md-4 prod"  value="dual-layer">
-				  <div class="box-thumb"><img src="assets/images/src/product5.jpg"></div>
+				  <div class="box-thumb"><img src="assets/images/src/Dual-Layer.png"></div>
 				  <input type="radio" name="wrist_style" id="dual-layer" class="wrist_style" value="dual-layer">
 				  <h2>Dual layer</h2>
 				</div>
 				<div class="col-md-4 prod" value="embossed-printed">
-				  <div class="box-thumb"><img src="assets/images/src/product6.jpg"></div>
+				  <div class="box-thumb"><img src="assets/images/src/Embossed-Printed.png"></div>
 				   <input type="radio" name="wrist_style" id="embossed-printed" class="wrist_style" value="embossed-printed">
 				  <h2>Embossed Printed</h2>
+				</div>
+				<div class="col-md-4 prod" value="figured">
+				  <div class="box-thumb"><img src="assets/images/src/Figured.png"></div>
+				   <input type="radio" name="wrist_style" id="figured" class="wrist_style" value="figured">
+				  <h2>Figured</h2>
+				</div>
+				<div class="col-md-4 prod" value="blank-style">
+				  <div class="box-thumb"><img src="assets/images/src/Blank.png"></div>
+				   <input type="radio" name="wrist_style" id="blank-style" class="wrist_style" value="blank-style">
+				  <h2>Blank</h2>
 				</div>
 			</div>
 				<div class="clearfix"></div>
@@ -1546,212 +2052,285 @@
 			</div>
 			<div class="wsize-default">
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/quarter.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size" value="quarter">
 				  <h2>1/4 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/half.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size" class="wrist_size" value="half">
 				  <h2>1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/3-4th.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size" value="three-fourth">
 				  <h2>3/4 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size" value="one">
 				  <h2>1 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1nhalf.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/11-2.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size" value="one-half">
 				  <h2>1 1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/2.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/2.png"></div>
 				   <input type="radio" name="wrist_size" class="wrist_size" value="two">
 				  <h2>2 Inch</h2>
 				</div>
+				<div class="clearfix"></div>
 			</div>
 			<div class="wsize-printed" style="display:none">
 				<div class="col-md-4">
-				  <div class="box-thumb"><img src="assets/images/src/quarter.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_printed" value="quarter" data-size-price='3.35'>
 				  <h2>1/4 Inch</h2> 
 				</div>
 				<div class="col-md-4">
-				  <div class="box-thumb"><img src="assets/images/src/half.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size" class="wrist_size_printed" value="half" data-size-price='1.36'>
 				  <h2>1/2 Inch</h2>
 				</div>
 				<div class="col-md-4">
-				  <div class="box-thumb"><img src="assets/images/src/3-4th.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_printed" value="three-fourth" data-size-price='6.24'>
 				  <h2>3/4 Inch</h2>
 				</div>
 				<div class="col-md-4">
-				  <div class="box-thumb"><img src="assets/images/src/1.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_printed" value="one" data-size-price='6.24'>
 				  <h2>1 Inch</h2> 
 				</div>
 				<div class="col-md-4">
-				  <div class="box-thumb"><img src="assets/images/src/1nhalf.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/11-2.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_printed" value="one-half" data-size-price='4.98'>
 				  <h2>1 1/2 Inch</h2>
 				</div>
 				<div class="col-md-4">
-				  <div class="box-thumb"><img src="assets/images/src/2.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/2.png"></div>
 				   <input type="radio" name="wrist_size" class="wrist_size_printed" value="two" data-size-price='5.39'>
 				  <h2>2 Inch</h2>
 				</div>
+				<div class="clearfix"></div>
 			</div>
 			<div class="wsize-debossed" style="display:none">
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/quarter.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_debossed" value="quarter">
 				  <h2>1/4 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/half.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size" class="wrist_size_debossed" value="half">
 				  <h2>1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/3-4th.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_debossed" value="three-fourth">
 				  <h2>3/4 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_debossed" value="one">
 				  <h2>1 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1nhalf.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/11-2.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_debossed" value="one-half">
 				  <h2>1 1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/2.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/2.png"></div>
 				   <input type="radio" name="wrist_size" class="wrist_size_debossed" value="two">
 				  <h2>2 Inch</h2>
 				</div>
+				<div class="clearfix"></div>
 			</div>
 			<div class="wsize-ink-injected" style="display:none">
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/quarter.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_ink-injected" value="quarter">
 				  <h2>1/4 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/half.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size" class="wrist_size_ink-injected" value="half">
 				  <h2>1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/3-4th.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_ink-injected" value="three-fourth">
 				  <h2>3/4 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_ink-injected" value="one">
 				  <h2>1 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1nhalf.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_ink-injected" value="one-half">
 				  <h2>1 1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/2.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/2.png"></div>
 				   <input type="radio" name="wrist_size" class="wrist_size_ink-injected" value="two">
 				  <h2>2 Inch</h2>
 				</div>
+				<div class="clearfix"></div>
 			</div>
 			<div class="wsize-embossed" style="display:none">
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/quarter.png"></div>
-				  <input type="radio" name="wrist_size"  class="wrist_size" value="quarter">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-4.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_embossed" value="quarter">
 				  <h2>1/4 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/half.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size" class="wrist_size_embossed" value="half">
 				  <h2>1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/3-4th.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_embossed" value="three-fourth">
 				  <h2>3/4 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_embossed" value="one">
 				  <h2>1 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1nhalf.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_embossed" value="one-half">
 				  <h2>1 1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/2.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/2.png"></div>
 				   <input type="radio" name="wrist_size" class="wrist_size_embossed" value="two">
 				  <h2>2 Inch</h2>
 				</div>
+				<div class="clearfix"></div>
 			</div>
 			<div class="wsize-dual-layer" style="display:none">
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/half.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size" class="wrist_size_dual-layer" value="half">
 				  <h2>1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/3-4th.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_dual-layer" value="three-fourth">
 				  <h2>3/4 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_dual-layer" value="one">
 				  <h2>1 Inch</h2> 
 				</div>
+				<div class="clearfix"></div>
 			</div>
 			<div class="wsize-embossed-printed" style="display:none">
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/quarter.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_embossed-printed" value="quarter">
 				  <h2>1/4 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/half.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size" class="wrist_size_embossed-printed" value="half">
 				  <h2>1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/3-4th.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_embossed-printed" value="three-fourth">
 				  <h2>3/4 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_embossed-printed" value="one">
 				  <h2>1 Inch</h2> 
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/1nhalf.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
 				  <input type="radio" name="wrist_size"  class="wrist_size_embossed-printed" value="one-half">
 				  <h2>1 1/2 Inch</h2>
 				</div>
 				<div class="col-md-4 prod-size">
-				  <div class="box-thumb"><img src="assets/images/src/2.png"></div>
+				  <div class="box-thumb"><img src="assets/images/src/sizes/2.png"></div>
 				   <input type="radio" name="wrist_size" class="wrist_size_embossed-printed" value="two">
 				  <h2>2 Inch</h2>
 				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="wsize-figured" style="display:none">
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-4.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_figured" value="quarter">
+				  <h2>1/4 Inch</h2> 
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
+				  <input type="radio" name="wrist_size" class="wrist_size_figured" value="half">
+				  <h2>1/2 Inch</h2>
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_figured" value="three-fourth">
+				  <h2>3/4 Inch</h2>
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_figured" value="one">
+				  <h2>1 Inch</h2> 
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_figured" value="one-half">
+				  <h2>1 1/2 Inch</h2>
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/2.png"></div>
+				   <input type="radio" name="wrist_size" class="wrist_size_figured" value="two">
+				  <h2>2 Inch</h2>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="wsize-blank-style" style="display:none">
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-4.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_blank-style" value="quarter">
+				  <h2>1/4 Inch</h2> 
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
+				  <input type="radio" name="wrist_size" class="wrist_size_blank-style" value="half">
+				  <h2>1/2 Inch</h2>
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/3-4.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_blank-style" value="three-fourth">
+				  <h2>3/4 Inch</h2>
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_blank-style" value="one">
+				  <h2>1 Inch</h2> 
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/1-2.png"></div>
+				  <input type="radio" name="wrist_size"  class="wrist_size_blank-style" value="one-half">
+				  <h2>1 1/2 Inch</h2>
+				</div>
+				<div class="col-md-4 prod-size">
+				  <div class="box-thumb"><img src="assets/images/src/sizes/2.png"></div>
+				   <input type="radio" name="wrist_size" class="wrist_size_blank-style" value="two">
+				  <h2>2 Inch</h2>
+				</div>
+				<div class="clearfix"></div>
 			</div>
 				<div class="clearfix"></div>
 				<input type="hidden" name="size_info" class="size_info" value="">
@@ -1770,7 +2349,7 @@
 					<li class="active"><a data-toggle="pill" href="#home">Solid</a></li>
 					<li><a data-toggle="pill" href="#segmented">Segmented</a></li>
 					<li><a data-toggle="pill" href="#swirls">Swirls</a></li>
-					<!---- <li><a data-toggle="pill" href="#glow">Glow</a></li> ---->
+					<li><a data-toggle="pill" href="#glow">Glow</a></li>
 				  </ul>
 				  
 				  <div class="tab-content">
@@ -1784,6 +2363,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1796,6 +2376,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1808,6 +2389,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1820,6 +2402,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content" style="display:none">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1832,6 +2415,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content" style="display:none">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1844,6 +2428,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content" style="display:none">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1856,6 +2441,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content" style="display:none">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1868,6 +2454,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content" style="display:none">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1880,6 +2467,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content" style="display:none">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1892,6 +2480,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content" style="display:none">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1904,6 +2493,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content" style="display:none">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1927,6 +2517,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1940,6 +2531,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<span class="view-more">View More Sizes</span>
+							<div class="clearfix"></div>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
 								<div class="col-xs-4 col-sm-6"><label>Extra Large Qty </label><input type="text" name="xt-large-qty" class="xt-large-qty" placeholder="0"/></div>
@@ -1951,6 +2543,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1963,6 +2556,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1975,6 +2569,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1987,6 +2582,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -1999,6 +2595,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2011,6 +2608,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2023,6 +2621,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2035,6 +2634,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2047,6 +2647,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2059,6 +2660,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2071,6 +2673,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2083,6 +2686,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2095,6 +2699,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2107,6 +2712,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2119,6 +2725,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2131,6 +2738,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2143,6 +2751,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="qtyin-adult-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="qtyin-medium-qty" placeholder="0"/></div>
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
+							<div class="clearfix"></div>
 							<span class="view-more">View More Sizes</span>
 							<div class="show-content">
 								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
@@ -2908,11 +3517,70 @@
 							<div class="clearfix"></div>
 					  </div>
 					</div>
+					<!--------	End Swirl ------------->
 					<div id="glow" class="tab-pane fade">
 					  <h3>Glow</h3>
-					  <p>Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+					  <div id="main-color-content">
+						<div class="col-xs-4 box-color">
+							<img src="assets/images/src/glow/GlowDarkBLUE.png"/>
+							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="adult-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="medium-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
+							<span class="view-more">View More Sizes</span>
+							<div class="show-content" style="display:none">
+								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
+								<div class="col-xs-4 col-sm-6"><label>Extra Large Qty </label><input type="text" name="xt-large-qty" class="xt-large-qty" placeholder="0"/></div>
+							</div>
+						</div>
+						<div class="col-xs-4 box-color">
+							<img src="assets/images/src/glow/GlowDarkGREEN.png"/>
+							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="adult-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="medium-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
+							<span class="view-more">View More Sizes</span>
+							<div class="show-content" style="display:none">
+								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
+								<div class="col-xs-4 col-sm-6"><label>Extra Large Qty </label><input type="text" name="xt-large-qty" class="xt-large-qty" placeholder="0"/></div>
+							</div>
+						</div>
+						<div class="col-xs-4 box-color">
+							<img src="assets/images/src/glow/GlowDarkPINK.png"/>
+							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="adult-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="medium-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
+							<span class="view-more">View More Sizes</span>
+							<div class="show-content" style="display:none">
+								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
+								<div class="col-xs-4 col-sm-6"><label>Extra Large Qty </label><input type="text" name="xt-large-qty" class="xt-large-qty" placeholder="0"/></div>
+							</div>
+						</div>
+						<div class="col-xs-4 box-color">
+							<img src="assets/images/src/glow/GlowDarkPURPLE.png"/>
+							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="adult-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="medium-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
+							<span class="view-more">View More Sizes</span>
+							<div class="show-content" style="display:none">
+								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
+								<div class="col-xs-4 col-sm-6"><label>Extra Large Qty </label><input type="text" name="xt-large-qty" class="xt-large-qty" placeholder="0"/></div>
+							</div>
+						</div>
+						<div class="col-xs-4 box-color">
+							<img src="assets/images/src/glow/GlowDarkPURPLE.png"/>
+							<div class="col-xs-4 col-sm-4"><label>Adult Qty </label><input type="text" name="adult-qty" class="adult-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Medium Qty</label><input type="text" name="medium-qty" class="medium-qty" placeholder="0"/></div>
+							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
+							<span class="view-more">View More Sizes</span>
+							<div class="show-content" style="display:none">
+								<div class="col-xs-4 col-sm-6"><label>Extra Small Qty</label><input type="text" name="xt-small-qty" class="xt-small-qty" placeholder="0"/></div>
+								<div class="col-xs-4 col-sm-6"><label>Extra Large Qty </label><input type="text" name="xt-large-qty" class="xt-large-qty" placeholder="0"/></div>
+							</div>
+						</div>
+					  </div>
 					</div>
+					<!--------	End Glow Color ------------->
 				  </div>
+				  <!-------	End Tab Content --------->
 				</div>
 			</div>
 			<!---------------------END WRISTBAND COLOR------------------------------->
@@ -3007,11 +3675,29 @@
 			<!--------- total------------>
 			<div class="clearfix"></div>
 			<div class="total-area">
-				<div class=""></div>
-				<h1>Total:</h1>
-				<div id="summary-order">
+				<div class="col-md-4">
+				   <h5>Production Time</h5>
+					<select name="ProductionTime" id="ProductionTime" class="uk-form-large uk-width-1-1 js-production-options" data-title="Production" required="" data-validation-error="Please select production time." data-validation-slide-pos="production-shipping">
+						<option value="0">Select Production Time…</option>
+						<option value="2" data-price="4.99">Rush Production - 2 Days (+$4.99)</option>
+						<option value="4" data-price="4.90">Standard Production - 4 Days (+$4.90)</option>
+						<option value="7" data-price="0.00">Standard Production - 7 Days (+$0.00)</option>
+					</select>
+					<div style="padding-top:10px;"></div>
+					<h5>Shipping Time</h5>
+						<select name="Delivery" id="ShippingTime" class="uk-form-large uk-width-1-1 js-shipping-options" data-title="Shipping" required="" data-validation-error="Please select shipping time." data-validation-slide-pos="production-shipping">
+							<option value="0">Select Shipping Time…</option>
+							<option value="2" data-price="19.84">Rush Shipping - 2 Days (+$19.84)</option>
+							<option value="4" data-price="6.84">Standard Shipping - 4 Days (+$6.84)</option>
+							<option value="6" data-price="5.89">Standard Shipping - 6 Days (+$5.89)</option>
+							<option value="7" data-price="15.79">International Shipping - 7 Days (+$15.79)</option>
+						</select>
 				</div>
-				<div class="col-md-4 add-ons">
+				
+				<div class="col-md-4" id="summary-order">
+				<h1>Total:</h1>
+				</div>
+				<div class="col-md-4">
 				  
 				  <div class="button-cart">
 					<button>Add to Cart</button>
