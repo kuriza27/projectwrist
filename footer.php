@@ -1,6 +1,6 @@
  <footer class="site-footer">
 	     <div class="container">
-		 
+
 			<div id="footer-link-main">
 				<ul class="footer-menu-item menu">
 					<li><a href="#">Home</a></li>
@@ -30,7 +30,7 @@
 				<p>Customer Service 123-456-7890</p>
 			</div>
 				<div class="clearfix"></div>
-		 
+
 			  <!-- Example row of columns -->
 				<div class="site-info">
 					<p>Copyright. All Rights Reserved &copy; 2016 Promotional Wristbands</p>
@@ -38,21 +38,27 @@
 				<div class="clearfix"></div>
 		</div>
       </footer>
-    
+
 
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-   
+
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+
+    <script type="text/javascript" src="assets/docs/spectrum.js"></script>
+    <script type='text/javascript' src='assets/docs/toc.js'></script>
+	<script type="text/javascript" src="assets/js/jquery.countdown.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/main-2.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
   </body>
 </html>
 	<script>
 		jQuery("#slideshow > div:gt(0)").hide();
 
-		setInterval(function() { 
+		setInterval(function() {
 		  jQuery('#slideshow > div:first')
 			.fadeOut(1000)
 			.next()

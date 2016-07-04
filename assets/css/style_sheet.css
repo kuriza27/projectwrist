@@ -395,6 +395,7 @@ table.table-area-ink-injected-half.uk-table.uk-table-bordered.js-pricing-table {
   .wrist-style .col-md-4 {
 	width: 83%!important;
 	padding:0!important;
+	margin-left: 33px;
   }
   
   .wrist-size .col-md-4{
@@ -425,10 +426,21 @@ table.table-area-ink-injected-half.uk-table.uk-table-bordered.js-pricing-table {
 	  width:100%!important;
 	  float:none!important;
   }
-}
-@media screen and (max-width: 850px){
-	.search{
+  
+  .search{
 		width:100%!important;
+	}
+}
+@media screen and (max-width: 767px){
+	.navbar-brand>img{
+	  width: 346px!important;
+  }
+  .col-xs-3.col-sm-2.offerpv{
+	  font-size:31px !important;
+  }
+  
+  .nav.nav-pills {
+    width: 96%!important;
 	}
 	
 }

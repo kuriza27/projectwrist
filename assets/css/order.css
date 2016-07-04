@@ -238,13 +238,13 @@ ORDER CSS
 
 
 
-.prod:hover{
+.prod:hover, .prod.active{
 	cursor:pointer;
 	border:1px solid #ADACAC;
 	background-color:#fff;
 }
 
-.prod-size:hover{
+.prod-size:hover, .prod-size.active{
 	cursor:pointer;
 	border:1px solid #ADACAC;
 }
@@ -520,4 +520,12 @@ select#ProductionTime {
 select#ShippingTime {
     padding: 6px;
     border-radius: 2px;
+}
+
+div#order-summary {
+    color: #FFF;
+}
+
+#order-summary span{
+	 color: #FFF;
 }
