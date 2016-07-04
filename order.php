@@ -147,7 +147,7 @@
 				  </ul>
 
 				  <div class="tab-content">
-					<div id="home" class="tab-pane fade in active">
+					<div id="home" class="tab-pane fade in active js-color" data-value="0" data-color="Solid">
 					  <h3>Solid Colors</h3>
 					  <div id="main-color-content">
 					  <div class="col-xs-4 box-color">
@@ -298,7 +298,7 @@
 							<div class="clearfix"></div>
 					  </div>
 					</div>
-					<div id="segmented" class="tab-pane fade">
+					<div id="segmented" class="tab-pane fade js-color" data-value="0.01" data-color="Segmented">
 					  <h3>Segmented Colors</h3>
 					  <div id="main-color-content">
 					     <div class="col-xs-4 box-color">
@@ -963,7 +963,7 @@
 							<div class="clearfix"></div>
 					 </div>
 					</div>
-					<div id="swirls" class="tab-pane fade">
+					<div id="swirls" class="tab-pane fade js-color" data-value="0.01" data-color="Swirls">
 					  <h3>Swirls</h3>
 					  <div id="main-color-content">
 						<div class="col-xs-4 box-color">
@@ -1312,7 +1312,7 @@
 					  </div>
 					</div>
 					<!-- End Swirl -->
-					<div id="glow" class="tab-pane fade">
+					<div id="glow" class="tab-pane fade js-color" data-value="0.03" data-color="Glow">
 					  <h3>Glow</h3>
 					  <div id="main-color-content">
 						<div class="col-xs-4 box-color">
@@ -1491,15 +1491,30 @@
 							</select>
 					</div>
 
-					<div class="col-md-4" id="summary-order">
-					<div id="order-summary">
-						<span id="order_title"></span> <br />
-						<span id="style_name"></span>
-						<span id="qty_style"></span>
+					<div class="col-md-6" id="summary-order">
+						<div id="order-summary">
+							<h3>Order Summary</h3>
+							<div class="summary-table">
+								<div class="row">
+									<div class="col-md-12">
+										<p><strong>
+											Style: <u><span id="wristband_style"></span></u> <br>
+											Size: <u><span id="wristband_size"></span></u>
+										</strong></p>
+									</div>
+								</div>
+								<div class="row">
+									<div class="col-md-8 col-sm-6"><strong>Colors</strong></div>
+									<div class="col-md-4 col-sm-6 align-right"><strong>Subtotal</strong></div>
+								</div>
+								<hr>
+								<div class="summary-list-item js-item-summary">
+								</div>
+							</div>
+						</div>
+						<h1 class="align-right">Total: <span id="totalPrice">$ 0.00</span></h1>
 					</div>
-					<h1>Total: <span id="totalPrice"></span></h1>
-					</div>
-					<div class="col-md-4">
+					<div class="col-md-2">
 
 					  <div class="button-cart">
 						<button>Add to Cart</button>

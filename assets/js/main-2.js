@@ -64,8 +64,9 @@ $(function(){
 		$(this).find('input[type="radio"]').prop('checked', true);
 		$(this).addClass('active');
 
-		$('#wrist_color_container').find('.tab-pane').find('input[name$="-qty"]').val('');
+		$('#wrist_color_container').find('.js-color').find('input[name$="-qty"]').val('');
 		$('.js-total').hide();
+		$('.js-no-total').fadeIn(300);
 
 		get_style_size('price_table');
 	});
@@ -77,7 +78,8 @@ $(function(){
 		$(this).find('input[type="radio"]').prop('checked', true);
 		$(this).addClass('active');
 
-		$('#wrist_color_container').find('.tab-pane').find('input[name$="-qty"]').val('');
+		$('#wrist_color_container').find('.js-color').find('input[name$="-qty"]').val('');
+		$('.js-total').hide();
 		$('.js-no-total').fadeIn(300);
 
 		get_style_size('price_table');
@@ -105,7 +107,7 @@ $(function(){
 
 	$('.box-color').find('input[name$="-qty"]').blur(function(){
 		var total = 0;
-		$('#wrist_color_container').find('.tab-pane.active').find('input[name$="-qty"]').each(function(i, el){
+		$('#wrist_color_container').find('.js-color').find('input[name$="-qty"]').each(function(i, el){
 			var qty = $(this).val();
 
 			if(qty != '') {
@@ -173,13 +175,13 @@ function get_price_data($style, $size, type) {
 		  							$('.js-wb-caption').find('.size').text($size);
 		  						}
 		  						if(type == 'fixed_price') {
-		  							//console.log(obj_price);
-		  							var total = 0;
-		  							$('#wrist_color_container').find('.tab-pane.active').find('input[name$="-qty"]').each(function(i, el){
+
+		  							var total_qty = 0;
+		  							$('#wrist_color_container').find('.js-color').find('input[name$="-qty"]').each(function(i, el){
 		  								var qty = $(this).val();
 
 		  								if(qty != '') {
-		  									total += parseInt(qty);
+		  									total_qty += parseInt(qty);
 		  								}
 		  							});
 
@@ -188,9 +190,9 @@ function get_price_data($style, $size, type) {
 		  							for(key in arr_keys) {
 		  								if(key < (arr_keys.length-1)) {
 		  									var k = parseInt(key) + 1;
-                                            
-		  									if(total >= arr_keys[key] && total < arr_keys[k]) {
-		  										get_total_price(obj_price[arr_keys[key]], total,wb_style);
+
+		  									if(total_qty >= arr_keys[key] && total_qty < arr_keys[k]) {
+		  										get_total_price(obj_price[arr_keys[key]], total_qty,wb_style, $size);
 		  									}
 		  								}
 		  							}
@@ -205,19 +207,51 @@ function get_price_data($style, $size, type) {
 	});
 }
 
-function get_total_price(price, qty,wb_style) {
-	var color_val = $('.js-colors').find('.active').find('a').data('value');
-	var color_val_total = color_val * qty;
+function get_total_price(price, qty, wb_style, wb_size) {
+
+	var total_price = 0;
+	$('.js-item-summary').html('');
+	$('#wrist_color_container').find('.js-color').each(function(){
+		var empty = true;
+		var sub_qty = 0;
+		$(this).find('input[name$="-qty"]').each(function(){
+			var q = $(this).val();
+
+			if(q != '') {
+				sub_qty += parseInt(q);
+				empty = false;
+			}
+		});
+
+		if(!empty) {
+			var color = $(this).data('color');
+			var added_val = parseFloat($(this).data('value'));
+
+			var sub_price = added_val + parseFloat(price);
+			var total_subprice = sub_price * sub_qty;
+
+			//calculate total price
+			total_price += total_subprice;
+
+			var html_item = '<div class="row summary-item"><div class="col-md-8 col-sm-6">- '+color+' ('+sub_qty+' x '+formatCurrency(sub_price)+' each)</div><div class="col-md-4 col-sm-6 align-right">'+formatCurrency(total_subprice)+'</div></div>';
+
+			$('.js-item-summary').append(html_item);
+		}
+	});
+
 	var style_name = wb_style;
-	var price_qty = price * qty;
+	var inc = wb_size >= 2 ? 'Inches':'Inch';
 
-
-	var total_price = color_val_total + price_qty;
+	$('#wristband_style').text(wb_style.toUpperCase());
+	$('#wristband_size').text(wb_size+' '+inc);
 
 	$('#totalPrice').text(formatCurrency(total_price));
+
+	/*
 	$('#style_name').text(style_name);
 	$('#qty_style').text("....$"+ price + "x"+qty);
 	$('#order_title').text("Order Summary:");
+	*/
 
 	$('.js-total').fadeIn(300);
 	$('.js-no-total').hide();
