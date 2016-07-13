@@ -360,7 +360,7 @@ ORDER CSS
     border: 1px solid #A1A1A1;
     border-radius: 2px;
     margin: 10px;
-	min-height: 496px;
+	min-height: 498px;
 }
 
 .box-color input {
@@ -421,11 +421,11 @@ div#main-color-content {
 
 #wrap { margin: auto; width: 800px; }
 
-#preview-pane { border: 1px solid #c1c1c1; padding-bottom: 10px; text-align: center; color: #8f8f8f; }
-#preview-pane div { line-height: 40px; }
-#preview-pane #front-view, #preview-pane #back-view { width: 60%; margin: auto; float: left; margin: 10px; text-align: center; }
-#preview-pane #inside-view { width: 98%; margin: 0px 10px; }
-#preview-pane .band {background:#fff; height: 40px; border: 1px solid #c1c1c1; }
+#preview-pane { border: 1px solid #c1c1c1; padding: 10px 10px; text-align: center; color: #8f8f8f; }
+#preview-pane div { line-height: 50px; }
+#preview-pane #front-view, #preview-pane #back-view { width: 50%; margin: auto; float: left; margin-bottom: 10px; text-align: center; }
+#preview-pane #inside-view { width: 100% }
+#preview-pane .band {background:#fff; height: 50px; }
 #preview-pane .band .faded { opacity: 0.5; }
 
 
@@ -492,8 +492,9 @@ select#size {
 
 select#fs {
     padding: 6px;
-    width: 244px;
-	color: grey;
+	width: 244px;
+	color: #434242;
+	font-size: 16px;
 }
 
 div#float {
@@ -540,4 +541,144 @@ div#order-summary {
 
 .summary-table hr {
 	margin-top: 5px;
+}
+
+.message-selection {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.message-selection input{
+	margin-right:10px;
+}
+.clip-sec{
+		margin-top:20px;
+}
+
+.f-input span{
+	color:#212f3d;
+	font-weight:bold;
+}
+
+.fclip-1, .fclip-2, .bclip-1, .bclip-2, #custom-color-button, #font-button{
+    background-color: #17a589;
+    color: #fff;
+    border: 1px solid  #117864 ;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+
+.fclip-1:hover,  .fclip-2:hover, .bclip-1:hover, .bclip-2:hover {
+	background-color: #1abc9c ;
+}
+
+
+button#custom-color-button {
+    margin: 0 56px;
+}
+
+.pick-color-list{
+	margin:0;
+	padding:0;
+}
+
+.pick-color-list li{
+	list-style:none;
+	float:left;
+	padding:4px;
+	width:12%;
+	
+}
+
+.clip-color-list li{
+	list-style:none;
+	float:left;
+	padding:4px;
+	width:10%;
+}
+
+.clip-color-list{
+	margin:0;
+	padding:0;
+}
+
+.box-opt-color{
+	margin-bottom:10px;
+}
+
+
+.box-opt-color h5{
+	color:#028072;
+}
+
+.box-opt-color ul{
+	margin:0;
+	padding:0;
+}
+
+.box-opt-color ul li{
+   list-style:none;
+   float:left;
+   width:20%;
+   margin:0;
+   padding:0;
+}
+
+.clip-color-list li img{
+	width:100%;
+}
+
+
+b {
+    font-size: 10px;
+}
+
+b:hover{
+	cursor:default;
+}
+
+.pick-color-list li:hover{
+	cursor:pointer;
+}
+
+.clip-color-list li:hover{
+	border:1px solid #17A589;
+}
+
+.font-style-list li{
+	list-style:none;
+	float:left;
+	padding:4px;
+	width: 25%;
+    height: 60px;
+}
+
+.font-style-list{
+	margin:0;
+	padding:0;
+}
+
+.font-style-list li img{
+	width:100%;
+}
+
+
+.font-style-list li:hover{
+	border:1px solid #17A589;
+}
+
+
+#add-design {
+    width: 344px;
+    padding: 8px;
+}
+
+
+.modal-header{
+	background-color:#325277;
+}
+
+.modal-header h4{
+	color:#fff;
 }

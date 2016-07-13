@@ -154,18 +154,18 @@ header {
 div#slideshow {
     text-align: center;
     margin-left: 0px;
-    padding-top: 10px;
-    border: 1px solid #C9C9C9;
+    /*padding-top: 10px;
+    border: 1px solid #C9C9C9;*/
     position: relative;
-    height: 96px;
-    padding: 0 30px;
+    height: 412px;
+    /*padding: 0 30px;*/
     margin-bottom: 10px;
     background-color: #fff;
 }
 
 #slider-images {
     position: absolute;
-    top: 10px;
+    top: 0px;
     bottom: 10px;
 }
 
@@ -329,11 +329,64 @@ div#footer-text {
 }
 
 .nocustom_pick {
-    padding: 24px 0;
+    padding: 30px 0;
 }
 
 table.table-area-ink-injected-half.uk-table.uk-table-bordered.js-pricing-table {
     overflow: auto;
+}
+
+
+.col-md-3{
+	width:20%;
+}
+
+.col-md-3 img{
+	width:200px;
+}
+
+.images-clips {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.price-table .table th:first-child {
+    border: 0;
+    background: #1b658c;
+}
+
+.price-table .table th {
+    background: #1c6992;
+    color: #fff;
+    padding: 10px 30px;
+    border-left: 1px solid #1b658c;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+
+.dropdown-menu{
+	background-color:#000;
+	margin:0px;
+}
+
+.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover{
+	background:none;
+	color:#fff;
+}
+
+.galleryimg {
+    width: 100%;
+}
+
+.product-page-temp{
+ margin-bottom:40px;	
+}
+
+.product-page-temp td, .product-page-temp th{
+	padding: 0 9px;
 }
 
 /****
@@ -444,3 +497,18 @@ table.table-area-ink-injected-half.uk-table.uk-table-bordered.js-pricing-table {
 	}
 	
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
