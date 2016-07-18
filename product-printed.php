@@ -1,109 +1,110 @@
 <?php include_once 'header.php'; ?>
 <div id="main-content" class="row homecontent">
 <div class="container">
-	<div class="product-page-temp">
+	<div class="half_bg" style="width: 60%; margin: 1% 0px 1% 1%;">
 			<h1>Printed Wristband</h1>
-			<p class="prodcode">Product Code: <b>RB-D12</b> (1/2 Inch) | <b>RB-D1</b> (1 Inch)</p>
-			<p>Printed is the most popular type of wristbands. This is similar to the yellow Livestrong wristband. Your customized message is engraved or sunken into the wristband. Our wristbands are made from 100% Pure Silicone which is Latex free and child safe.</p>
+			<p class="prodcode">Product Code: <b>RB-IM12</b> (1/2 Inch) | <b>RB-IM1</b> (1 Inch)</p>
+			<p>This is the most cost effective way to really show your design and message on the wristbands. Your message will be silk screen printed on wristband via a permanent ink technology machine. . You can select any color that you want for the message and logos that will be printed on the wristbands. </p>
 			<div class="popup-gallery">
-				<div class="col-md-4">
-			<a href="assets/images/src/Printed.png" title="Printed"><img src="assets/images/src/Printed.png" class="galleryimg" ></a>
-		</div>
+				<div class="col-md-8">
+				<a href="assets/images/src/Printed.png" title="Printed"><img src="assets/images/src/Printed.png" class="galleryimg" ></a>
+				</div>
 			</div>
-			<div class="col-md-4">
+				<div class="clearfix"  style="margin-bottom:20px;"></div>
+			<div class="col-md-6">
 				<div class="size_options">
 				<table><tbody>
 					<tr>
-						<th colspan="3" class="title">1/2 Inch Debossed</th>
+						<th colspan="3" class="title">1/2 Inch Printed</th>
 					</tr>
 					<tr>
 						<th>Quantity</th> <th>Free</th> <th>Unit Price</th>
 					</tr>
 					<tr>
-						<td>20-49</td> <td>N/A</td> <td>$2.82</td>
+						<td>20-49</td> <td>N/A</td> <td>$1.36</td>
 					</tr>
 					<tr>
-						<td>50-74</td> <td>N/A</td> <td>$1.90</td>
+						<td>50-74</td> <td>N/A</td> <td>$0.81</td>
 					</tr>
 					<tr>
-						<td>100-199</td> <td>+100 Free</td> <td>$1.30</td>
+						<td>100-199</td> <td>+100 Free</td> <td>$0.38</td>
 					</tr>
 					<tr>
-						<td>200-299</td> <td>+100 Free</td> <td>$0.84</td>
+						<td>200-299</td> <td>+100 Free</td> <td>$0.32</td>
 					</tr>
 					<tr>
-						<td>300-499</td> <td>+100 Free</td> <td>$0.66</td>
+						<td>300-499</td> <td>+100 Free</td> <td>$0.3</td>
 					</tr>
 					<tr>
-						<td>500-999</td> <td>+100 Free</td> <td>$0.50</td>
+						<td>500-999</td> <td>+100 Free</td> <td>$0.22</td>
 					</tr>
 					<tr>
-						<td>1,000-1,999</td> <td>+100 Free</td> <td>$0.36</td>
+						<td>1,000-1,999</td> <td>+100 Free</td> <td>$0.15</td>
 					</tr>
 					<tr>
-						<td>2,000-2,999</td> <td>+100 Free</td> <td>$0.32</td>
+						<td>2,000-2,999</td> <td>+100 Free</td> <td>$0.15</td>
 					</tr>
 					<tr>
-						<td>3,000-4,999</td> <td>+100 Free</td> <td>$0.30</td>
+						<td>3,000-4,999</td> <td>+100 Free</td> <td>$0.17</td>
 					</tr>
 					<tr>
-						<td>5,000-9,999</td> <td>+100 Free</td> <td>$0.26</td>
+						<td>5,000-9,999</td> <td>+100 Free</td> <td>$0.12</td>
 					</tr>
 					<tr>
-						<td>10,000-19,999</td> <td>+100 Free</td> <td>$0.24</td>
+						<td>10,000-19,999</td> <td>+100 Free</td> <td>$0.12</td>
 					</tr>
 					<tr>
-						<td>20,000+</td> <td>+100 Free</td> <td>$0.23</td>
+						<td>20,000+</td> <td>+100 Free</td> <td>$0.12</td>
 					</tr>
 				</tbody>
 				</table>
 				<div class="pricenote">All prices and options are on a (P).</div>
 				</div>
 			</div>
-			<div class="col-xs-3 col-sm-2">
+			<div class="col-md-6">
 				<div class="size_options">
 				<table><tbody>
 					<tr>
-						<th colspan="3" class="title">1 Inch Debossed</th>
+						<th colspan="3" class="title">1 Inch Printed</th>
 					</tr>
 					<tr>
 						<th>Quantity</th><th>Free</th><th>Unit Price</th>
 					</tr>
 					<tr>
-						<td>20-49</td> <td>N/A</td> <td>$8.98</td>
+						<td>20-49</td> <td>N/A</td> <td>$6.24</td>
 					</tr>
 					<tr>
-						<td>50-74</td> <td>N/A</td> <td>$4.00</td>
+						<td>50-74</td> <td>N/A</td> <td>$2.3</td>
 					</tr>
 					<tr>
-						<td>100-199</td> <td>+100 Free</td> <td>$1.52</td>
+						<td>100-199</td> <td>+100 Free</td> <td>$0.77</td>
 					</tr>
 					<tr>
-						<td>200-299</td> <td>+100 Free</td> <td>$1.00</td>
+						<td>200-299</td> <td>+100 Free</td> <td>$0.6</td>
 					</tr>
 					<tr>
-						<td>300-499</td> <td>+100 Free</td> <td>$0.82</td>
+						<td>300-499</td> <td>+100 Free</td> <td>$0.51</td>
 					</tr>
 					<tr>
-						<td>500-999</td> <td>+100 Free</td> <td>$0.70</td>
+						<td>500-999</td> <td>+100 Free</td> <td>$0.46</td>
 					</tr>
 					<tr>
-						<td>1,000-1,999</td> <td>+100 Free</td> <td>$0.50</td>
+						<td>1,000-1,999</td> <td>+100 Free</td> <td>$0.36</td>
 					</tr>
 					<tr>
-						<td>2,000-2,999</td> <td>+100 Free</td> <td>$0.46</td>
+						<td>2,000-2,999</td> <td>+100 Free</td> <td>$0.33</td>
 					</tr>
 					<tr>
-						<td>3,000-4,999</td> <td>+100 Free</td> <td>$0.54</td>
+						<td>3,000-4,999</td> <td>+100 Free</td> <td>$0.38</td>
 					</tr>
 					<tr>
-						<td>5,000-9,999</td> <td>+100 Free</td> <td>$0.54</td>
+						<td>5,000-9,999</td> <td>+100 Free</td> <td>$0.32</td>
 					</tr>
 					<tr>
-						<td>10,000-19,999</td> <td>+100 Free</td> <td>$0.44</td>
+						<td>10,000-19,999</td> <td>+100 Free</td> <td>$0.37</td>
 					</tr>
 					<tr>
-						<td>20,000+</td> <td>+100 Free</td> <td>$0.44</td>
+						<td>20,000+</td> <td>+100 Free</td> <td>$0.32</td>
 					</tr>
 				</tbody>
 				</table>
@@ -111,6 +112,8 @@
 			</div>
 				<div class="clearfix"></div>
 		</div>
+		<?php include "sidebar.php"; ?>
+			<div class="clearfix"></div>
 	</div><!-----End Container---->
 </div>
 	<script language="javascript"><!-- 

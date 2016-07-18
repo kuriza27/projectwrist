@@ -63,8 +63,10 @@
 				<img src="assets/images/src/google_trust.jpg">
 			</div>
 			<div class="search">
-				  <span class="fa fa-search"></span>
-				  <input placeholder="Search Products">
+				  <div id="hour-img"><img src="assets/images/src/24-hours-delivery.jpg"></div>
+				  <span class="fa fa-search">1-800-989-0440</span>
+				  <p><span class="fa-text">sales@promotionalwristband.com</span></p>
+				  
 			</div>
 				<div class="clearfix"></div>
 			</div>
@@ -90,21 +92,30 @@
 							<li class="menu-item menu-item-type-post_type current-menu-item page_item"><a href="homepage.php">Home</a></li>
 							<li class="menu-item menu-item-type-post_type"><a href="order.php">Order Now</a></li>
 							<li class="menu-item menu-item-type-post_type"><a href="price.php">Prices</a></li>
-							<li class="dropdown menu-item menu-item-type-post_type"><a  data-toggle="dropdown" class="dropdown-toggle" href="#">Products</a>
+							<li class="dropdown menu-item menu-item-type-post_type"><a data-toggle="dropdown" class="dropdown-toggle" href="product-printed.php">Products</a>
 								<ul class="dropdown-menu">
 									<li><a href="product-printed.php">Printed</a></li>
-									<li><a href="#">Debossed</a></li>
-									<li><a href="#">Ink Injected</a></li>
-									<li><a href="#">Embossed</a></li>
-									<li><a href="#">Dual Layer</a></li>
-									<li><a href="#">Embossed Printed</a></li>
-									<li><a href="#">Figured</a></li>
-									<li><a href="#">Blank</a></li>
+									<li><a href="product-debossed.php">Debossed</a></li>
+									<li><a href="product-ink-injected.php">Ink Injected</a></li>
+									<li><a href="product-embossed.php">Embossed</a></li>
+									<li><a href="product-dual-layer.php">Dual Layer</a></li>
+									<li><a href="product-embossed-printed.php">Embossed Printed</a></li>
+									<li><a href="product-figured.php">Figured</a></li>
+									<li><a href="product-blank.php">Blank</a></li>
 								</ul>
 							</li>
-							<li class="menu-item menu-item-type-post_type"><a href="#">Wristband Options</a></li>
+							<li class="dropdown menu-item menu-item menu-item-type-post_type"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Wristband Options</a>
+								<ul class="dropdown-menu">
+									<li><a href="fonts.php">Fonts</a></li>
+									<li><a href="cliparts.php">Cliparts</a></li>
+									<li><a href="colors.php">Color Chart</a></li>
+									<li><a href="sizes.php">Sizes</a></li> 
+								</ul>
+							
+							
+							</li>
 							<li class="menu-item menu-item-type-post_type"><a href="gallery.php">Photo Gallery</a></li>
-							<li class="menu-item menu-item-type-post_type"><a href="#">Contact Us</a></li>
+							<li class="menu-item menu-item-type-post_type"><a href="contact-us.php">Contact Us</a></li>
 							<li class="menu-item menu-item-type-post_type"><a href="#">Live Chat</a>
 								<script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: 'ff8c4d2b-032b-4f3f-9c29-8411120648ad', f: true }); done = true; } }; })();</script>
 							</li>
@@ -114,8 +125,15 @@
 
 			</div><!--/.navbar-collapse -->
 		</section>
-
+       
 		<!--.Banner Slideshow -->
+		 <?php
+			/*$homepage = "/promotional/homepage.php";*/
+			$homepage = "/dev/homepage.php";
+			$currentpage = $_SERVER['REQUEST_URI'];
+			if($homepage==$currentpage) {
+			?>
+	   
 			<div class="banner">
 				<div id="slideshow">
 					<div id="slider-images" style="display: block;">
@@ -130,9 +148,14 @@
 				</div>
 					<div class=""></div>
 			</div>
-		<!--/.Banner Slideshow -->
+	   
+		   <?php 
+				}
+			?>
+			
+			<!--/.Banner Slideshow -->
 			<div class="timer-area">
-			<span class="text-banner">Order 100 wristband or more & Get 100 Free!  Time remaining: </span>
+			<span class="text-banner">Order 100 wristbands or more & Get 100 Free Wristbands and 10 Keychains!  Time remaining: </span>
 			<span id="countdown2"></span>
 			<span id="order-now"><a href="order.php">Order Now</a></span>
 			</div>

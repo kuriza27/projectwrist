@@ -3,13 +3,13 @@
 
 			<div id="footer-link-main">
 				<ul class="footer-menu-item menu">
-					<li><a href="#">Home</a></li>
-					<li><a href="#">Order Now</a></li>
-					<li><a href="#">Prices</a></li>
-					<li><a href="#">Products</a></li>
-					<li><a href="#">Wristband Options</a></li>
-					<li><a href="#">Photo Gallery</a></li>
-					<li><a href="#">Contact Us</a></li>
+					<li><a href="homepage.php">Home</a></li>
+					<li><a href="order.php">Order Now</a></li>
+					<li><a href="price.php">Prices</a></li>
+					<li><a href="product-printed.php">Products</a></li>
+					<li><a href="fonts.php">Wristband Options</a></li>
+					<li><a href="gallery.php">Photo Gallery</a></li>
+					<li><a href="contact-us.php">Contact Us</a></li>
 					<li><a href="#">Live Chat</a></li>
 					 <div class="clearfix"></div>
 				</ul>
