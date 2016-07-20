@@ -91,7 +91,7 @@ $(function(){
 		$('.js-style').removeClass('active');
 		$(this).find('input[type="radio"]').prop('checked', true);
 		$(this).addClass('active');
-
+         
 		$('#wrist_color_container').find('.js-color').find('input[name$="-qty"]').val('');
 		$('.js-total').hide();
 		$('.js-no-total').fadeIn(300);
@@ -199,6 +199,16 @@ function get_style_size(type) {
 	}
 	else {
 		var $size = $('input[name="wrist_size"]:checked').data('size');
+		if($style == 'debossed'){
+			$(".color-text").hide(); 
+		}else if($style == 'embossed'){
+			$(".color-text").hide();
+		}
+		else if($style == 'dual-layer'){
+			$(".color-text").hide();
+		}else{
+			$(".color-text").show();
+		}
 	}
 
 	if(check_style == 0) {
