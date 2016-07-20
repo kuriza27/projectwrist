@@ -421,9 +421,27 @@ div#main-color-content {
 
 #wrap { margin: auto; width: 800px; }
 
-#preview-pane { border: 1px solid #c1c1c1; padding: 10px 10px; text-align: center; color: #8f8f8f; }
-#preview-pane div { line-height: 50px; }
-#preview-pane #front-view, #preview-pane #back-view { width: 50%; margin: auto; float: left; margin-bottom: 10px; text-align: center; }
+#preview-pane {     
+   border: 1px solid #c1c1c1;
+    padding: 10px 10px;
+    text-align: center;
+    color: #8f8f8f;
+    text-transform: uppercase;
+    font-weight: bold;
+	}
+	
+#preview-pane div { 
+	line-height: 50px; 
+	}
+	
+#preview-pane #front-view, #preview-pane #back-view { 
+	width: 50%; 
+	margin: auto; 
+	float: left; 
+	margin-bottom: 10px; 
+	text-align: center; 
+	}
+	
 #preview-pane #inside-view { width: 100% }
 #preview-pane .band {background:#fff; height: 50px; }
 #preview-pane .band .faded { opacity: 0.5; }

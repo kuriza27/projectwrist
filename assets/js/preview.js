@@ -2,12 +2,13 @@
 /**
  *  Generate a preview image
  */
-function generatePreviewImage( style, colors ) {
+function generatePreviewImage(style, colors ) {
 
 	$(".segmented").css("display", "block");
 	$(".solid").css("display", "block");
 	$(".swirl").css("display", "block");
-
+	$(".glow").css("display", "block");
+	
 	if(typeof colors !== "undefined" && typeof style !== "undefined") {
 
 		// Place colors on an array, for future use
@@ -18,6 +19,7 @@ function generatePreviewImage( style, colors ) {
 			// Hide SVG elements not used
 			$(".solid").css("display", "none");
 			$(".segmented").css("display", "none");
+			$(".glow").css("display", "none");
 
 			// Set colors
 			$("#swirl_1").css( "fill", "#" + colors[0]); // Set 1st color
@@ -48,6 +50,7 @@ function generatePreviewImage( style, colors ) {
 			// Hide SVG elements not used
 			$(".solid").css("display", "none");
 			$(".swirl").css("display", "none");
+			$(".glow").css("display", "none");
 
 			// Set colors
 			if(colors.length === 1) { // If 1 colors
@@ -135,9 +138,25 @@ function generatePreviewImage( style, colors ) {
 			// Remove SVG elements not used
 			$(".segmented").css("display", "none");
 			$(".swirl").css("display", "none");
+			$(".glow").css("display", "none");
 
 			// Set color
 			$(".solid").css( "fill", "#" + colors[0]);
+
+			// Render SVG into Canvas
+			return render($("#svg_main").parent().html().trim(), "output_canvas", "output_image", "preview", style);
+
+		}
+		
+		else if(style === "glow") {
+
+			// Remove SVG elements not used
+			$(".segmented").css("display", "none");
+			$(".swirl").css("display", "none");
+			$(".solid").css("display", "none");
+			
+			// Set color
+			$(".glow").css( "fill", "#" + colors[0]);
 
 			// Render SVG into Canvas
 			return render($("#svg_main").parent().html().trim(), "output_canvas", "output_image", "preview", style);

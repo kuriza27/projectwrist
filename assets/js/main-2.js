@@ -3,19 +3,6 @@ $(function(){
 	 var $style_value;
 	 var $size_value;
 
-	 $(".my_color").spectrum({
-			 color: "#079665"
-	 });
-
-	//color segmented custom
-	 $(".my_color1_segmented").spectrum({
-			 color: "#cc33ff"
-	 });
-
-	 //color segmented custom
-	 $(".my_color2_segmented").spectrum({
-			 color: "#99ff66"
-	 });
 
 	 //change font
 	 $("#fs").change(function() {
@@ -98,6 +85,10 @@ $(function(){
 
 		get_style_size('price_table');
 	});
+	
+	$(".clip-color-list a").click(function(){
+		var ref = clipArt.attr('ref');
+	});
 
 	//select wristband size
 	$('.js-size').click(function(){
@@ -141,6 +132,7 @@ $(function(){
 			if(qty != '') {
 				total += parseInt(qty);
 			}
+			
 		});
 
 		if(total == 0) {
@@ -199,16 +191,6 @@ function get_style_size(type) {
 	}
 	else {
 		var $size = $('input[name="wrist_size"]:checked').data('size');
-		if($style == 'debossed'){
-			$(".color-text").hide(); 
-		}else if($style == 'embossed'){
-			$(".color-text").hide();
-		}
-		else if($style == 'dual-layer'){
-			$(".color-text").hide();
-		}else{
-			$(".color-text").show();
-		}
 	}
 
 	if(check_style == 0) {
@@ -216,8 +198,21 @@ function get_style_size(type) {
 	}
 	else {
 		var $style = $('input[name="wrist_style"]:checked').data('style');
-	}
 
+		if($style== 'debossed'){
+			$(".color-text").hide(); 
+		}
+		else if($style == 'embossed'){
+			$(".color-text").hide();
+		}
+		else if($style == 'dual-layer'){
+			$(".color-text").hide();
+		}
+		else{
+			$(".color-text").show();
+		}
+
+	}
 
 	get_price_data($style, $size, type);
 }
@@ -263,7 +258,7 @@ function get_price_data($style, $size, type) {
 		  									var ref_type = $(this).parents('.tab-pane').data('color').toLowerCase();
 		  									var ref_colors = $(this).attr('ref').split(',');
 
-		  									generatePreviewImage( ref_type, ref_colors );
+		  									generatePreviewImage(ref_type, ref_colors);
 		  								}
 		  							});
 
@@ -354,11 +349,11 @@ function resetDrpMenu() {
 	$('.wristForm .clipart li a').addClass('closex');
 }
 
-$('[input]').live('focus',function(){
+$('[input]').on('focus',function(){
 	resetDrpMenu();
 });
 
-$('.clipart .drpMenuItems').live('click',function(){
+$('.clipart .drpMenuItems').on('click',function(){
 	$('.clipart li').removeAttr('style');
 	if($(this).hasClass('closex')){
 		resetDrpMenu();
