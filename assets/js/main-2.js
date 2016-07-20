@@ -28,7 +28,7 @@ $(function(){
 		$('#float').css("font-size", $(this).val() + "px");
 	});
 
-	
+
 	//show extra band size
 	$(".show-content").hide();
 	$(".view-more").click(function() {
@@ -43,7 +43,7 @@ $(function(){
 		$('.c-select').css("display","none");
 		$('.cont-select').prop('checked', false)
 	});
-	
+
 	//show continous message selection
 	$(".cont-select").click(function() {
 		$('.front-back-select').prop('checked', false)
@@ -52,7 +52,7 @@ $(function(){
 		$('.f-input').css("display","none");
 		$('.c-input').css("display","block");
 	});
-	
+
 
 	$('body').on('click', '.preview-pill', function(e) {
 		$('.preview-pill').removeClass('active');
@@ -61,8 +61,8 @@ $(function(){
 		$("#front-view").css('background', 'url(' + $(this).attr('data-image-link') + ')');
 		$("#back-view").css('background', 'url(' + $(this).attr('data-image-link') + ')');
 	});
-	
-	
+
+
 	//preview message
 	$('.band-text').keyup(function(){
 		$.each($('.band-text'), function(key, obj){
@@ -149,7 +149,44 @@ $(function(){
 		}
 	});
 
+	//colorpicker
+	$('.pick-color-list li').click(function(){
+		var color = $(this).attr('refcode');
+		var p = $(this).parent('.pick-color-list').prev('.box-opt-color');
+		var num = p.find('input[type="text"]').length;
+		var pick = $(this);
+		var limit = $(this).parent('.pick-color-list').find('li.active').length;
+		var box = $(this).parents('.box-color');
 
+		if(!pick.hasClass('active') && limit < num) {
+			var f = p.find('li:not(.active)').eq(0);
+			pick.addClass('active');
+			f.find('input').val(color);
+			f.addClass('active').css('border-color', '#'+color);
+			f.attr('refcode', color);
+
+			if(num == 1) {
+				box.find('input[type="number"]').attr('ref', color);
+			}
+			if(num > 1) {
+				var colors = [];
+				p.find('li.active').each(function(){
+					var c = $(this).attr('refcode');
+					colors.push(c);
+				});
+				box.find('input[type="number"]').attr('ref', colors.join(','));
+			}
+		}
+		else {
+			pick.removeClass('active');
+			var f = p.find('li[refcode="'+color+'"]');
+			f.removeClass('active');
+			f.removeAttr('refcode');
+			f.removeAttr('style');
+			f.find('input').val('');
+		}
+
+	});
 });
 
 function get_style_size(type) {
@@ -171,24 +208,7 @@ function get_style_size(type) {
 		var $style = $('input[name="wrist_style"]:checked').data('style');
 	}
 
-	color_type = $('#wrist_color_container ul.js-colors li.active').attr('data-color-style');
-	colors = [];
-	if(color_type === "solid") {
-		colors.push($("#solid-color-0").val());
-	} else if(color_type === "segmented") {
-		if($("#segmented-color-0").val() !== "") { colors.push($("#segmented-color-0").val()); }
-		if($("#segmented-color-1").val() !== "") { colors.push($("#segmented-color-1").val()); }
-		if($("#segmented-color-2").val() !== "") { colors.push($("#segmented-color-2").val()); }
-		if($("#segmented-color-3").val() !== "") { colors.push($("#segmented-color-3").val()); }
-		if($("#segmented-color-4").val() !== "") { colors.push($("#segmented-color-4").val()); }
-		if($("#segmented-color-5").val() !== "") { colors.push($("#segmented-color-5").val()); }
-	} else if(color_type === "swirls") {
-		if($("#swirl-color-0").val() !== "") { colors.push($("#swirl-color-0").val()); }
-		if($("#swirl-color-1").val() !== "") { colors.push($("#swirl-color-1").val()); }
-		if($("#swirl-color-2").val() !== "") { colors.push($("#swirl-color-2").val()); }
-	}
 
-	generatePreviewImage( color_type, colors );
 	get_price_data($style, $size, type);
 }
 
@@ -223,11 +243,17 @@ function get_price_data($style, $size, type) {
 		  						if(type == 'fixed_price') {
 
 		  							var total_qty = 0;
+									var count = 0;
 		  							$('#wrist_color_container').find('.js-color').find('input[name$="-qty"]').each(function(i, el){
 		  								var qty = $(this).val();
 
 		  								if(qty != '') {
 		  									total_qty += parseInt(qty);
+
+		  									var ref_type = $(this).parents('.tab-pane').data('color').toLowerCase();
+		  									var ref_colors = $(this).attr('ref').split(',');
+
+		  									generatePreviewImage( ref_type, ref_colors );
 		  								}
 		  							});
 
