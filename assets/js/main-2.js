@@ -84,7 +84,7 @@ $(function(){
 		$color = $(this).attr('value');
 		$('.band').css('background', $color);
 	});
-
+	
 	//select wristband style
 	$('.js-style').click(function(){
 		$('.js-style').find('input[type="radio"]').prop('checked', false);
@@ -205,7 +205,17 @@ function get_style_size(type) {
 		var $style = 'imprinted';
 	}
 	else {
-		var $style = $('input[name="wrist_style"]:checked').data('style');
+		var $style = $('input[name="wrist_style"]:checked').data('style'); 
+		if($style == 'debossed'){
+			$(".color-text").hide(); 
+		}else if($style == 'embossed'){
+			$(".color-text").hide();
+		}
+		else if($style == 'dual-layer'){
+			$(".color-text").hide();
+		}else{
+			$(".color-text").show();
+		}
 	}
 
 
@@ -220,7 +230,7 @@ function get_price_data($style, $size, type) {
 	  	var items = [];
 	  	var arr = $.map(data, function(elem) { return elem });
 	  	var len = arr.length - 1;
-
+        
 	  	for(var keys in arr) {
 
 	  		for(var wb_style in arr[keys]) {
@@ -280,7 +290,7 @@ function get_price_data($style, $size, type) {
 }
 
 function get_total_price(price, qty, wb_style, wb_size) {
-
+    alert('hey');
 	var total_price = 0;
 	$('.js-item-summary').html('');
 	$('#wrist_color_container').find('.js-color').each(function(){
@@ -361,3 +371,17 @@ $('.clipart .drpMenuItems').live('click',function(){
 		$('.drpMenuItems_clipart').fadeOut(300);
 	}
 });
+
+
+function getBgColorHex(elem){
+    var color = elem.css('background-color')
+    var hex;
+    if(color.indexOf('#')>-1){
+        //for IE
+        hex = color;
+    } else {
+        var rgb = color.match(/\d+/g);
+        hex = '#'+ ('0' + parseInt(rgb[0], 10).toString(16)).slice(-2) + ('0' + parseInt(rgb[1], 10).toString(16)).slice(-2) + ('0' + parseInt(rgb[2], 10).toString(16)).slice(-2);
+    }
+    return hex;
+}
