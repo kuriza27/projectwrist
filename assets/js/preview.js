@@ -2,7 +2,7 @@
 /**
  *  Generate a preview image
  */
-function generatePreviewImage(style, colors ) {
+function generatePreviewImage(style, colors) {
 
 	$(".segmented").css("display", "block");
 	$(".solid").css("display", "block");

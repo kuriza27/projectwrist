@@ -100,7 +100,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input  type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -128,7 +128,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -155,7 +155,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="6A491A" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -182,7 +182,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0E9543" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -209,7 +209,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="A0A29F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -236,7 +236,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FD029A" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -263,7 +263,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="9ABFE5" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -290,7 +290,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="F997B7" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -317,7 +317,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="8CD50B" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -344,7 +344,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="891C2E" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -371,7 +371,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input  ref="836F3D" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -398,7 +398,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="8D8F8C" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -425,7 +425,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="01214E" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -452,7 +452,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EF6B01" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -479,7 +479,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="D5A927" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -506,7 +506,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="00B2AC" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -533,7 +533,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="AD71C5" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -560,7 +560,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="A0B8C2" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -587,7 +587,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="22452D" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -614,7 +614,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="8DBDBF" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -641,7 +641,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="8643A4" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -668,7 +668,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="3B83CB" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -695,7 +695,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="B99474" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -722,7 +722,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="A1B5BE" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -749,7 +749,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0086BA" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -776,7 +776,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="50582E" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -803,7 +803,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0F8CCC"  type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -830,7 +830,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -857,7 +857,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="191597" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -884,7 +884,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="079CA5" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -911,7 +911,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="5A108B" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -938,7 +938,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FFFFFF" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -965,7 +965,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="F2E80F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1021,7 +1021,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1048,7 +1048,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,0E9543"type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1075,7 +1075,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,FD029A" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1102,7 +1102,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,836F3D" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1129,7 +1129,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,8D8F8C" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1156,7 +1156,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,EF6B01" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1183,7 +1183,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,5A108B" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1210,7 +1210,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,191597" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1237,7 +1237,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,FFFFFF" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1264,7 +1264,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,F2E80F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1291,7 +1291,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0B45BB,A0A29F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1318,7 +1318,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0B45BB,FD029A" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1345,7 +1345,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0B45BB,9ABFE5" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1372,7 +1372,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0B45BB,5A108B,EA0D2C" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1399,7 +1399,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0E9543,EA0D2C,F2E80F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1426,7 +1426,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0E9543,191597" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1453,7 +1453,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FD029A,000000,0B45BB" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1480,7 +1480,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FD029A,9ABFE5" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1507,7 +1507,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FD029A,F997B7" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1534,7 +1534,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="891C2E,A0A29F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1561,7 +1561,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EF6B01,A0A29F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1588,7 +1588,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="C1A900,5A108B" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1615,7 +1615,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="7BB201,44A3BC" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1642,7 +1642,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="0E9543,F2E80F,EF6B01,EA0D2C,5A108B,0B45BB" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1669,7 +1669,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,000000" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1696,7 +1696,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,000000,F2E80F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1723,7 +1723,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,0B45BB" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1750,7 +1750,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,0B45BB,FD029A" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1777,7 +1777,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,0B45BB,F2E80F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1804,7 +1804,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,0E9543" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1831,7 +1831,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,A0A29F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1858,7 +1858,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,FD029A" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1885,7 +1885,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,5A108B,000000" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1912,7 +1912,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,419DB5" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1939,7 +1939,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,FB78B2" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1966,7 +1966,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,FEFEFE,0B45BB" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -1993,7 +1993,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,FEFEFE,0E9543" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2020,7 +2020,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EA0D2C,F2E80F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2047,7 +2047,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EF6B01,FEFEFE,000000" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2074,7 +2074,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EFEFE,0B45BB" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2101,7 +2101,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="5A108B,FEFEFE,0B45BB" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2128,7 +2128,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,6A491A" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2155,7 +2155,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,0E9543" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2182,7 +2182,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,A0A29F" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2209,7 +2209,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,FD029A" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2236,7 +2236,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,9ABFE5" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2263,7 +2263,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,8CD50B" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2290,7 +2290,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,EF6B01" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2317,7 +2317,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,AD71C5" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2344,7 +2344,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,FB78B2" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2371,7 +2371,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,EA0D2C" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2398,7 +2398,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,079CA5" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2425,7 +2425,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="F2E80F,0B45BB" type="number" name="youth-qty" class="qtyin-youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2479,7 +2479,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2506,7 +2506,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="021509,0C9040" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2533,7 +2533,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="070707,9DA09C" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2560,7 +2560,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="070707,E5028B" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2587,7 +2587,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="070707,560F88" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2614,7 +2614,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="070707,E30C2A" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2641,7 +2641,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="070707,F3F3F3" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2668,7 +2668,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="070707,E4DA0E" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2695,7 +2695,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="1753A6,8AD40C" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2722,7 +2722,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="F3F6FC,0D46BA" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2749,7 +2749,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="F3F6FC,174830" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2776,7 +2776,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="4E4726,DECE76,6B5619" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2803,7 +2803,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000000,BE8B5E,64631C" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2830,7 +2830,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="E22FAB,9BBAE3" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2857,7 +2857,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="98C0D7,8FCF49,F90599" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2884,7 +2884,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FBFCFC,11442B" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2911,7 +2911,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="8FD040,97C1CC,F0E711" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2938,7 +2938,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="8A2232,A0A19D" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2965,7 +2965,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="F17A19,FFFCF9" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -2992,7 +2992,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="773BA1,FBF9FC" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3019,7 +3019,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="681990,F574B1" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3046,7 +3046,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="F4303D,FEDE1E,2230A9" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3073,7 +3073,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="E10D30,08389E,000000" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3100,7 +3100,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="D9152C,178B41" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3127,7 +3127,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="D9152C,A1A19C" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3154,7 +3154,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="D9152C,FFFFFF" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3181,7 +3181,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="D9152C,FFFFFF,0F42B6"type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3208,7 +3208,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="EB2328,F2E50F" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3235,7 +3235,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="000001,120F6D" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3262,7 +3262,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="242097,999C9E" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3289,7 +3289,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,1CA4AD" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3316,7 +3316,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="FEFEFE,000000,05461F" type="number" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3350,7 +3350,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="3886C4" type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3376,7 +3376,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="5DCE66" type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3402,7 +3402,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="D57DA3" type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3428,7 +3428,7 @@
 							<div class="col-xs-4 col-sm-4"><label>Youth Qty </label><input ref="A078AD" type="text" name="youth-qty" class="youth-qty" placeholder="0"/></div>
 							<div class="clearfix"></div>
 							<!---------Start text color option------------>
-								<div class="color-text">
+								<div class="color-text" style="display:none">
 									<div class="col-sm-1">
 										<?php include "colorAdult-template.php";?>
 									</div>
@@ -3584,11 +3584,37 @@
 							</div>
 						</div> -->
 					</div>
-					<!--end preview pan -->
+					<!--end preview pane -->
+					<div id="font-color">
+					<h3>Select Font Color</h3>
+						<button id="font-button" data-toggle="modal" data-target="#FontColorModal">Select Font Color</button><div id="preview-textcolor"></div>
+							<!--------Modal---------->
+							<div class="modal fade" id="FontColorModal" role="dialog">
+								<div class="modal-dialog">
+								  <!-- Modal content-->
+								  <div class="modal-content">
+									<div class="modal-header">
+									  <button type="button" class="close" data-dismiss="modal">&times;</button>
+									  <h4 class="modal-title">Pick Custom Text Color</h4>
+									</div>
+									<div class="modal-body">
+									  <?php include "font-color-template.php";?>
+									   <div class="clearfix"></div>
+									</div>
+									<div class="modal-footer">
+									  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+									</div>
+								  </div>
+								  <!---------End Modal Content-------------->
+								</div>
+							  </div>
+                               <!-----End Modal Div ---->
+							   <div class="clearfix"></div>
+				    </div>
 					<div id="add-design">
 								<!--<button>Clear</button>-->
 							<h3>Select Font Style</h3>
-							<button id="font-button" data-toggle="modal" data-target="#FontModal">Choose Font Style</button><br />
+							<button id="font-button" data-toggle="modal" data-target="#FontModal">Choose Font Style</button><br /><div id="preview-textfont"></div>
 							<div class="modal fade" id="FontModal" role="dialog">
 								<div class="modal-dialog">
 								  <!-- Modal content-->
@@ -3609,6 +3635,7 @@
 								</div>
 							  </div>
                                <!-----End Modal Div ---->
+							   <div class="clearfix"></div>
 					</div>
 
 				</div>

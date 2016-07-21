@@ -425,15 +425,31 @@ div#main-color-content {
    border: 1px solid #c1c1c1;
     padding: 10px 10px;
     text-align: center;
-    color: #8f8f8f;
-    text-transform: uppercase;
+    color: #444444;
     font-weight: bold;
+	font-size:18px;
 	}
 	
 #preview-pane div { 
 	line-height: 50px; 
 	}
 	
+div#preview-textcolor {
+    height: 40px;
+    float: right;
+    width: 49px;
+    margin-right: 120px;
+    margin-top: 2px;
+}
+
+div#preview-textfont{
+	height: 40px;
+    float: right;
+    width: 150px;
+    /* margin-right: 120px; */
+    margin-top: -32px;
+}
+
 #preview-pane #front-view, #preview-pane #back-view { 
 	width: 50%; 
 	margin: auto; 
@@ -609,6 +625,23 @@ button#custom-color-button {
 	
 }
 
+.font-color-list{
+	margin:0;
+	padding:0;
+}
+
+.font-color-list li{
+	list-style:none;
+	float:left;
+	padding:4px;
+	width:12%;
+	
+}
+
+.font-color-list li img{
+	width:100%;
+}
+
 .clip-color-list li{
 	list-style:none;
 	float:left;
@@ -726,6 +759,17 @@ b:hover{
 .color-text {
     position: relative;
     margin-bottom: 17px;
+}
+
+
+#font-color {
+    width: 344px;
+    padding: 8px;
+}
+
+input#font-color {
+    width: 130px;
+    padding: 4px;
 }
 
 @media (min-width: 768px)

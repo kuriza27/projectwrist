@@ -179,6 +179,28 @@ $(function(){
 		}
 
 	});
+	
+	//font-color selection
+	$('.font-color-list li').click(function(){
+			var textcolor = $(this).attr('refcode');
+			console.log(textcolor);
+			if(textcolor != undefined);{
+				$("#preview-pane").css("color", "#"+textcolor);
+				$("#preview-textcolor").css("background-color", "#"+textcolor);
+			}
+	});
+	
+	//font-style selection
+	$('.font-style-list li').click(function(){
+			var text = $(this).attr('name');
+			var img = $(this).attr('ref');
+			
+			if(text != undefined);{
+				$("#preview-pane").css("font-family", text);
+				$("#preview-textfont").html("<img src='assets/images/src/fonts/"+img+"'/>");
+			}
+	});
+	
 });
 
 function get_style_size(type) {
@@ -199,7 +221,7 @@ function get_style_size(type) {
 	else {
 		var $style = $('input[name="wrist_style"]:checked').data('style');
 
-		if($style== 'debossed'){
+		/*if($style== 'debossed'){
 			$(".color-text").hide(); 
 		}
 		else if($style == 'embossed'){
@@ -211,7 +233,7 @@ function get_style_size(type) {
 		else{
 			$(".color-text").show();
 		}
-
+        */
 	}
 
 	get_price_data($style, $size, type);
@@ -251,15 +273,16 @@ function get_price_data($style, $size, type) {
 									var count = 0;
 		  							$('#wrist_color_container').find('.js-color').find('input[name$="-qty"]').each(function(i, el){
 		  								var qty = $(this).val();
-
-		  								if(qty != '') {
-		  									total_qty += parseInt(qty);
-
+										
+		  								if(qty != ''){ 
+											/*getSelectedColor("#drpColorId");*/
+											total_qty += parseInt(qty);
+											
 		  									var ref_type = $(this).parents('.tab-pane').data('color').toLowerCase();
 		  									var ref_colors = $(this).attr('ref').split(',');
-
-		  									generatePreviewImage(ref_type, ref_colors);
-		  								}
+		  									
+											generatePreviewImage(ref_type, ref_colors);
+										}
 		  							});
 
 		  							var arr_keys = Object.keys(obj_price);
@@ -366,3 +389,19 @@ $('.clipart .drpMenuItems').on('click',function(){
 		$('.drpMenuItems_clipart').fadeOut(300);
 	}
 });
+
+   /* function getSelectedColor(id) {
+        var value='';
+        console.log(id);
+        // set value to be the current selected value
+        value = jQuery(id+"option:selected").attr('ref');
+        // change value whenever the box changes
+        jQuery(id).change(function () {
+            value = jQuery(id+"option:selected").attr('ref');
+            console.log(value);
+        });
+
+        return value;
+    }
+*/
+

@@ -20,6 +20,7 @@
     <!-- Custom styles for this template -->
     <link href="assets/css/style_sheet.css" rel="stylesheet">
 	<link href="assets/css/order.css" rel="stylesheet">
+	<link href="assets/css/font_style.css" rel="stylesheet">
 	<link href="assets/css/magnific-popup.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
