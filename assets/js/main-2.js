@@ -3,7 +3,16 @@ $(function(){
 	 var $style_value;
 	 var $size_value;
 
-
+	$('#prod-main').click(function(){
+		window.location = 'product-printed.php';
+		
+		});
+	
+	$('#prod-main2').click(function(){
+		window.location = 'fonts.php';
+		
+		});
+	
 	 //change font
 	 $("#fs").change(function() {
 		//alert($(this).val());

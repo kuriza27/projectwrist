@@ -509,7 +509,28 @@ span.red {
 	padding:0;
 }
 
+#prod-main{
+	cursor:pointer;
+}
 
+#prod-main2{
+	cursor:pointer;
+}
+
+
+.accordion{
+	margin:0 0 40px 0;
+	padding:0 0px 10px 0px;
+}
+
+.accordion li{
+	list-style:none;
+	padding-bottom:10px;
+}
+
+.accordion li a{
+	font-size:16px;
+}
 
 /****
 **
