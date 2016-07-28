@@ -3479,7 +3479,7 @@
 
 						<div class="f-input">
 							<div class="col-sm-5"   style="border-right:2px solid #154360;">
-								<span>Front Message:</span><input type="text" name="front-text" class="band-text" value=""  placeholder="Enter Front Message">
+								<span>Front Message:</span><input type="text" name="front-text" class="band-text" value=""  placeholder="Enter Front Message" maxlength="11">
 								<div class="clip-sec col-xs-6">
 									<button class="fclip-1" data-toggle="modal" data-target="#ClipArtModal">Front Start Clip Art</button><br />
 								</div>
@@ -3490,7 +3490,7 @@
 									<div class="clearfix"></div>
 							</div>
 							<div class="col-sm-5">
-								<span>Back Message:</span><input type="text" name="back-text" class="band-text" value="" placeholder="Enter Back Message">
+								<span>Back Message:</span><input type="text" name="back-text" class="band-text" value="" placeholder="Enter Back Message" maxlength="11">
 								<div class="clip-sec col-xs-6">
 									<button class="bclip-1" data-toggle="modal" data-target="#ClipArtModal">Back Start Clip Art</button><br />
 									<a href="#">or Upload your own art</a>
@@ -3547,6 +3547,7 @@
 									</div>
 								</div>
 								<div class="clearfix"></div>
+								<span style="color:#ff0000;">maximum of 22 characters for both front and back</span>
 							</div>
 							<div class="c-select" style="display:none;">
 								<div id="inside-view" class="band">

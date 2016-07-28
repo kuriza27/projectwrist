@@ -642,11 +642,14 @@ button#custom-color-button {
 	width:100%;
 }
 
-.clip-color-list li{
-	list-style:none;
-	float:left;
-	padding:4px;
-	width:10%;
+.clip-color-list li {
+    list-style: none;
+    float: left;
+    padding: 4px;
+    width: 10%;
+    text-align: center;
+    height: 76px;
+    line-height: 12px;
 }
 
 .clip-color-list{
@@ -695,6 +698,7 @@ b:hover{
 
 .clip-color-list li:hover{
 	border:1px solid #17A589;
+	color:#17A589;
 }
 
 .font-style-list li{

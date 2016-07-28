@@ -52,6 +52,25 @@
   </head>
 
 <body>
+<script>
+	<!-- Google Tag Manager --->;
+
+	<noscript&gt;<iframe src=&quot;//www.googletagmanager.com/ns.html?id=GTM-KFHV3B&quot;
+
+	height=&quot;0&quot; width=&quot;0&quot; style=&quot;display:none;visibility:hidden&quot;&gt;</iframe&gt;</noscript&gt;
+
+	<script&gt;(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({&#39;gtm.start&#39;:
+
+	new Date().getTime(),event:&#39;gtm.js&#39;});var f=d.getElementsByTagName(s)[0],
+
+	j=d.createElement(s),dl=l!=&#39;dataLayer&#39;?&#39;&amp;l=&#39;+l:&#39;&#39;;j.async=true;j.src=
+
+	&#39;//www.googletagmanager.com/gtm.js?id=&#39;+i+dl;f.parentNode.insertBefore(j,f);
+
+	})(window,document,&#39;script&#39;,&#39;dataLayer&#39;,&#39;GTM-KFHV3B&#39;);</script&gt;
+
+	<!-- End Google Tag Manager --->;
+</script>
 <div id="main">
 <header>
     <nav class="navbar navbar-inverse navbar-default">
